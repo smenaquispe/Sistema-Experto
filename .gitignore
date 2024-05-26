@@ -1,0 +1,7 @@
+sistema_experto/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.idea/
+.vscode/
