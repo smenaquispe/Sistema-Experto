@@ -1,0 +1,127 @@
+[
+    {
+        "country": "United Kingdom",
+        "rank": "1",
+        "average-time": 37.2
+    },
+    {
+        "country": "India",
+        "rank": "2",
+        "average-time": 29.3
+    },
+    {
+        "country": "Canada",
+        "rank": "3",
+        "average-time": 29
+    },
+    {
+        "country": "Italy",
+        "rank": "4",
+        "average-time": 28.5
+    },
+    {
+        "country": "Peru",
+        "rank": "5",
+        "average-time": 28.3
+    },
+    {
+        "country": "Romania",
+        "rank": "6",
+        "average-time": 27.4
+    },
+    {
+        "country": "Philippines",
+        "rank": "7",
+        "average-time": 27.2
+    },
+    {
+        "country": "Belgium",
+        "rank": "8",
+        "average-time": 27
+    },
+    {
+        "country": "Taiwan",
+        "rank": "9",
+        "average-time": 26.5
+    },
+    {
+        "country": "Mexico",
+        "rank": "10",
+        "average-time": 26.3
+    },
+    {
+        "country": "Japan",
+        "rank": "11",
+        "average-time": 26.3
+    },
+    {
+        "country": "France",
+        "rank": "12",
+        "average-time": 26.3
+    },
+    {
+        "country": "Colombia",
+        "rank": "13",
+        "average-time": 25.3
+    },
+    {
+        "country": "United States",
+        "rank": "14",
+        "average-time": 24.5
+    },
+    {
+        "country": "Poland",
+        "rank": "15",
+        "average-time": 24.4
+    },
+    {
+        "country": "Switzerland",
+        "rank": "16",
+        "average-time": 24.4
+    },
+    {
+        "country": "Argentina",
+        "rank": "17",
+        "average-time": 24.3
+    },
+    {
+        "country": "Germany",
+        "rank": "18",
+        "average-time": 23.5
+    },
+    {
+        "country": "Indonesia",
+        "rank": "19",
+        "average-time": 23.2
+    },
+    {
+        "country": "Greece",
+        "rank": "20",
+        "average-time": 23.1
+    },
+    {
+        "country": "Brazil",
+        "rank": "21",
+        "average-time": 23
+    },
+    {
+        "country": "Uruguay",
+        "rank": "22",
+        "average-time": 22.2
+    },
+    {
+        "country": "Luxembourg",
+        "rank": "23",
+        "average-time": 21.4
+    },
+    {
+        "country": "Thailand",
+        "rank": "24",
+        "average-time": 21.4
+    },
+    {
+        "country": "Australia",
+        "rank": "25",
+        "average-time": 21.3
+    }
+]
