@@ -1,0 +1,112 @@
+[
+  {
+    "country": "Russia",
+    "TravelAdvisory": "Level 4 (Do Not Travel)",
+    "PossibleThreats": "Singling out of US citizens in Russia by government security officials including for detention, COVID-19-related restrictions, and terrorism"
+  },
+  {
+    "country": "Mexico",
+    "TravelAdvisory": "Other",
+    "PossibleThreats": "Crime and kidnapping"
+  },
+  {
+    "country": "Iran",
+    "TravelAdvisory": "Level 4 (Do Not Travel)",
+    "PossibleThreats": "Kidnapping and the arbitrary arrest and detention of U.S. citizens."
+  },
+  {
+    "country": "Myanmar",
+    "TravelAdvisory": "Level 4 (Do Not Travel)",
+    "PossibleThreats": "Civil unrest, armed conflict, possible COVID-19-related restrictions and inadequate health care, possible land mines or wrongful detention"
+  },
+  {
+    "country": "Sudan",
+    "TravelAdvisory": "Level 4 (Do Not Travel)",
+    "PossibleThreats": "Civil unrest, possible crime, terrorism, kidnapping, and armed conflict"
+  },
+  {
+    "country": "Iraq",
+    "TravelAdvisory": "Level 4 (Do Not Travel)",
+    "PossibleThreats": "Terrorism, kidnapping, armed conflict, and civil unrest"
+  },
+  {
+    "country": "Afghanistan",
+    "TravelAdvisory": "Level 4 (Do Not Travel)",
+    "PossibleThreats": "Armed conflict, civil unrest, crime, terrorism, and kidnapping (especially targeting US citizens)"
+  },
+  {
+    "country": "Ukraine",
+    "TravelAdvisory": "Level 4 (Do Not Travel)",
+    "PossibleThreats": "Full-scale military invasion"
+  },
+  {
+    "country": "Yemen",
+    "TravelAdvisory": "Level 4 (Do Not Travel)",
+    "PossibleThreats": "Terrorism, civil unrest, health risks, kidnapping, armed conflict, and landmines"
+  },
+  {
+    "country": "Venezuela",
+    "TravelAdvisory": "Level 4 (Do Not Travel)",
+    "PossibleThreats": "Crime, civil unrest, poor health infrastructure, kidnapping, and unjust arrest and detention"
+  },
+  {
+    "country": "North Korea",
+    "TravelAdvisory": "Level 4 (Do Not Travel)",
+    "PossibleThreats": "Continuing serious risk of arrest and long-term detention of US nationals"
+  },
+  {
+    "country": "Syria",
+    "TravelAdvisory": "Level 4 (Do Not Travel)",
+    "PossibleThreats": "Terrorism, civil unrest, kidnapping, armed conflict, and unjust arrest and detention"
+  },
+  {
+    "country": "Mali",
+    "TravelAdvisory": "Level 4 (Do Not Travel)",
+    "PossibleThreats": "Crime, terrorism, and kidnapping"
+  },
+  {
+    "country": "Burkina Faso",
+    "TravelAdvisory": "Level 4 (Do Not Travel)",
+    "PossibleThreats": "Terrorism, crime, and kidnapping"
+  },
+  {
+    "country": "Somalia",
+    "TravelAdvisory": "Level 4 (Do Not Travel)",
+    "PossibleThreats": "Crime, terrorism, civil unrest, health issues, kidnapping, and piracy"
+  },
+  {
+    "country": "Haiti",
+    "TravelAdvisory": "Level 4 (Do Not Travel)",
+    "PossibleThreats": "Kidnapping, crime, and civil unrest."
+  },
+  {
+    "country": "South Sudan",
+    "TravelAdvisory": "Level 4 (Do Not Travel)",
+    "PossibleThreats": "Crime, kidnapping, and armed conflict"
+  },
+  {
+    "country": "Belarus",
+    "TravelAdvisory": "Level 4 (Do Not Travel)",
+    "PossibleThreats": "Arbitrary enforcement of laws, risk of detention, military buildup"
+  },
+  {
+    "country": "Israel",
+    "TravelAdvisory": "Other",
+    "PossibleThreats": "Armed conflict with Palestine, terrorism, civil unrest"
+  },
+  {
+    "country": "Libya",
+    "TravelAdvisory": "Level 4 (Do Not Travel)",
+    "PossibleThreats": "Crime, terrorism, civil unrest, kidnapping, and armed conflict"
+  },
+  {
+    "country": "Central African Republic",
+    "TravelAdvisory": "Level 4 (Do Not Travel)",
+    "PossibleThreats": "Crime, civil unrest, kidnapping"
+  },
+  {
+    "country": "Palestine",
+    "TravelAdvisory": "Other",
+    "PossibleThreats": "Terrorism, civil unrest, and armed conflict with Israel"
+  }
+]

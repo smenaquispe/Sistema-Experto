@@ -1,0 +1,202 @@
+[
+  {
+    "country": "India",
+    "BiodiversityIndex": 301.63,
+    "NumberOfAmphibianSpecies": 446,
+    "NumberOfBirdSpecies": 1212,
+    "NumberOfFishSpecies": 2601,
+    "NumberOfMammalSpecies": 440,
+    "NumberOfReptlilianSpecies": 715,
+    "NumberOfVascularPlanSpecies": 45000
+  },
+  {
+    "country": "China",
+    "BiodiversityIndex": 365.84,
+    "NumberOfAmphibianSpecies": 540,
+    "NumberOfBirdSpecies": 1285,
+    "NumberOfFishSpecies": 3476,
+    "NumberOfMammalSpecies": 622,
+    "NumberOfReptlilianSpecies": 554,
+    "NumberOfVascularPlanSpecies": 31362
+  },
+  {
+    "country": "United States",
+    "BiodiversityIndex": 280.13,
+    "NumberOfAmphibianSpecies": 326,
+    "NumberOfBirdSpecies": 844,
+    "NumberOfFishSpecies": 3081,
+    "NumberOfMammalSpecies": 531,
+    "NumberOfReptlilianSpecies": 556,
+    "NumberOfVascularPlanSpecies": 15500
+  },
+  {
+    "country": "Indonesia",
+    "BiodiversityIndex": 418.78,
+    "NumberOfAmphibianSpecies": 383,
+    "NumberOfBirdSpecies": 1723,
+    "NumberOfFishSpecies": 4813,
+    "NumberOfMammalSpecies": 729,
+    "NumberOfReptlilianSpecies": 772,
+    "NumberOfVascularPlanSpecies": 19232
+  },
+  {
+    "country": "Brazil",
+    "BiodiversityIndex": 512.34,
+    "NumberOfAmphibianSpecies": 1141,
+    "NumberOfBirdSpecies": 1816,
+    "NumberOfFishSpecies": 4738,
+    "NumberOfMammalSpecies": 693,
+    "NumberOfReptlilianSpecies": 847,
+    "NumberOfVascularPlanSpecies": 34387
+  },
+  {
+    "country": "Mexico",
+    "BiodiversityIndex": 342.47,
+    "NumberOfAmphibianSpecies": 411,
+    "NumberOfBirdSpecies": 1105,
+    "NumberOfFishSpecies": 2629,
+    "NumberOfMammalSpecies": 533,
+    "NumberOfReptlilianSpecies": 988,
+    "NumberOfVascularPlanSpecies": 23385
+  },
+  {
+    "country": "DR Congo",
+    "BiodiversityIndex": 214.43,
+    "NumberOfAmphibianSpecies": null,
+    "NumberOfBirdSpecies": null,
+    "NumberOfFishSpecies": null,
+    "NumberOfMammalSpecies": null,
+    "NumberOfReptlilianSpecies": null,
+    "NumberOfVascularPlanSpecies": null
+  },
+  {
+    "country": "Vietnam",
+    "BiodiversityIndex": 216.97,
+    "NumberOfAmphibianSpecies": null,
+    "NumberOfBirdSpecies": null,
+    "NumberOfFishSpecies": null,
+    "NumberOfMammalSpecies": null,
+    "NumberOfReptlilianSpecies": null,
+    "NumberOfVascularPlanSpecies": null
+  },
+  {
+    "country": "Thailand",
+    "BiodiversityIndex": 200.77,
+    "NumberOfAmphibianSpecies": null,
+    "NumberOfBirdSpecies": null,
+    "NumberOfFishSpecies": null,
+    "NumberOfMammalSpecies": null,
+    "NumberOfReptlilianSpecies": null,
+    "NumberOfVascularPlanSpecies": null
+  },
+  {
+    "country": "Tanzania",
+    "BiodiversityIndex": 213.1,
+    "NumberOfAmphibianSpecies": null,
+    "NumberOfBirdSpecies": null,
+    "NumberOfFishSpecies": null,
+    "NumberOfMammalSpecies": null,
+    "NumberOfReptlilianSpecies": null,
+    "NumberOfVascularPlanSpecies": null
+  },
+  {
+    "country": "South Africa",
+    "BiodiversityIndex": 207.94,
+    "NumberOfAmphibianSpecies": null,
+    "NumberOfBirdSpecies": null,
+    "NumberOfFishSpecies": null,
+    "NumberOfMammalSpecies": null,
+    "NumberOfReptlilianSpecies": null,
+    "NumberOfVascularPlanSpecies": null
+  },
+  {
+    "country": "Myanmar",
+    "BiodiversityIndex": 221.77,
+    "NumberOfAmphibianSpecies": null,
+    "NumberOfBirdSpecies": null,
+    "NumberOfFishSpecies": null,
+    "NumberOfMammalSpecies": null,
+    "NumberOfReptlilianSpecies": null,
+    "NumberOfVascularPlanSpecies": null
+  },
+  {
+    "country": "Colombia",
+    "BiodiversityIndex": 369.76,
+    "NumberOfAmphibianSpecies": 812,
+    "NumberOfBirdSpecies": 1863,
+    "NumberOfFishSpecies": 2105,
+    "NumberOfMammalSpecies": 477,
+    "NumberOfReptlilianSpecies": 634,
+    "NumberOfVascularPlanSpecies": 24025
+  },
+  {
+    "country": "Peru",
+    "BiodiversityIndex": 330.12,
+    "NumberOfAmphibianSpecies": 655,
+    "NumberOfBirdSpecies": 1861,
+    "NumberOfFishSpecies": 1583,
+    "NumberOfMammalSpecies": 490,
+    "NumberOfReptlilianSpecies": 510,
+    "NumberOfVascularPlanSpecies": 19812
+  },
+  {
+    "country": "Malaysia",
+    "BiodiversityIndex": 214.71,
+    "NumberOfAmphibianSpecies": null,
+    "NumberOfBirdSpecies": null,
+    "NumberOfFishSpecies": null,
+    "NumberOfMammalSpecies": null,
+    "NumberOfReptlilianSpecies": null,
+    "NumberOfVascularPlanSpecies": null
+  },
+  {
+    "country": "Venezuela",
+    "BiodiversityIndex": 273.39,
+    "NumberOfAmphibianSpecies": null,
+    "NumberOfBirdSpecies": null,
+    "NumberOfFishSpecies": null,
+    "NumberOfMammalSpecies": null,
+    "NumberOfReptlilianSpecies": null,
+    "NumberOfVascularPlanSpecies": null
+  },
+  {
+    "country": "Australia",
+    "BiodiversityIndex": 337.18,
+    "NumberOfAmphibianSpecies": 245,
+    "NumberOfBirdSpecies": 725,
+    "NumberOfFishSpecies": 4992,
+    "NumberOfMammalSpecies": 355,
+    "NumberOfReptlilianSpecies": 1131,
+    "NumberOfVascularPlanSpecies": 19324
+  },
+  {
+    "country": "Ecuador",
+    "BiodiversityIndex": 291.58,
+    "NumberOfAmphibianSpecies": 659,
+    "NumberOfBirdSpecies": 1629,
+    "NumberOfFishSpecies": 1111,
+    "NumberOfMammalSpecies": 392,
+    "NumberOfReptlilianSpecies": 492,
+    "NumberOfVascularPlanSpecies": 18466
+  },
+  {
+    "country": "Bolivia",
+    "BiodiversityIndex": 209.55,
+    "NumberOfAmphibianSpecies": null,
+    "NumberOfBirdSpecies": null,
+    "NumberOfFishSpecies": null,
+    "NumberOfMammalSpecies": null,
+    "NumberOfReptlilianSpecies": null,
+    "NumberOfVascularPlanSpecies": null
+  },
+  {
+    "country": "Papua New Guinea",
+    "BiodiversityIndex": 226.57,
+    "NumberOfAmphibianSpecies": null,
+    "NumberOfBirdSpecies": null,
+    "NumberOfFishSpecies": null,
+    "NumberOfMammalSpecies": null,
+    "NumberOfReptlilianSpecies": null,
+    "NumberOfVascularPlanSpecies": null
+  }
+]
