@@ -1,0 +1,1444 @@
+[
+  {
+    "country": "India",
+    "DrugUseDisorder2019": 7670641,
+    "DrugUseDeathRatePer100Kin2019": 0.67,
+    "DisabilityAdjustedLifeYears2019": 0.9,
+    "FrequencyOfOpiateUse": 0.4
+  },
+  {
+    "country": "China",
+    "DrugUseDisorder2019": 9669043,
+    "DrugUseDeathRatePer100Kin2019": 0.66,
+    "DisabilityAdjustedLifeYears2019": 1.5,
+    "FrequencyOfOpiateUse": 0.2
+  },
+  {
+    "country": "United States",
+    "DrugUseDisorder2019": 10699858,
+    "DrugUseDeathRatePer100Kin2019": 18.83,
+    "DisabilityAdjustedLifeYears2019": 6.7,
+    "FrequencyOfOpiateUse": 1.04
+  },
+  {
+    "country": "Indonesia",
+    "DrugUseDisorder2019": 1291165,
+    "DrugUseDeathRatePer100Kin2019": 0.24,
+    "DisabilityAdjustedLifeYears2019": 0.5,
+    "FrequencyOfOpiateUse": 0.2
+  },
+  {
+    "country": "Pakistan",
+    "DrugUseDisorder2019": 964597,
+    "DrugUseDeathRatePer100Kin2019": 0.54,
+    "DisabilityAdjustedLifeYears2019": 0.6,
+    "FrequencyOfOpiateUse": 1
+  },
+  {
+    "country": "Nigeria",
+    "DrugUseDisorder2019": 573228,
+    "DrugUseDeathRatePer100Kin2019": 0.22,
+    "DisabilityAdjustedLifeYears2019": 0.2,
+    "FrequencyOfOpiateUse": 0.7
+  },
+  {
+    "country": "Brazil",
+    "DrugUseDisorder2019": 2432894,
+    "DrugUseDeathRatePer100Kin2019": 0.48,
+    "DisabilityAdjustedLifeYears2019": 2.3,
+    "FrequencyOfOpiateUse": 0.1
+  },
+  {
+    "country": "Bangladesh",
+    "DrugUseDisorder2019": 611965,
+    "DrugUseDeathRatePer100Kin2019": 0.2,
+    "DisabilityAdjustedLifeYears2019": 0.8,
+    "FrequencyOfOpiateUse": 0.37
+  },
+  {
+    "country": "Russia",
+    "DrugUseDisorder2019": 1517270,
+    "DrugUseDeathRatePer100Kin2019": 3.6,
+    "DisabilityAdjustedLifeYears2019": 3.8,
+    "FrequencyOfOpiateUse": 1.64
+  },
+  {
+    "country": "Ethiopia",
+    "DrugUseDisorder2019": 365203,
+    "DrugUseDeathRatePer100Kin2019": 0.38,
+    "DisabilityAdjustedLifeYears2019": 0.8,
+    "FrequencyOfOpiateUse": 0.05
+  },
+  {
+    "country": "Mexico",
+    "DrugUseDisorder2019": 714431,
+    "DrugUseDeathRatePer100Kin2019": 0.46,
+    "DisabilityAdjustedLifeYears2019": 1.5,
+    "FrequencyOfOpiateUse": 0.1
+  },
+  {
+    "country": "Japan",
+    "DrugUseDisorder2019": 789750,
+    "DrugUseDeathRatePer100Kin2019": 0.27,
+    "DisabilityAdjustedLifeYears2019": 0.6,
+    "FrequencyOfOpiateUse": 0.1
+  },
+  {
+    "country": "Philippines",
+    "DrugUseDisorder2019": 633468,
+    "DrugUseDeathRatePer100Kin2019": 0.32,
+    "DisabilityAdjustedLifeYears2019": 0.7,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Egypt",
+    "DrugUseDisorder2019": 339306,
+    "DrugUseDeathRatePer100Kin2019": 0.1,
+    "DisabilityAdjustedLifeYears2019": 0.5,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "DR Congo",
+    "DrugUseDisorder2019": 291062,
+    "DrugUseDeathRatePer100Kin2019": 0.41,
+    "DisabilityAdjustedLifeYears2019": 0.4,
+    "FrequencyOfOpiateUse": 0.2
+  },
+  {
+    "country": "Vietnam",
+    "DrugUseDisorder2019": 622132,
+    "DrugUseDeathRatePer100Kin2019": 1.12,
+    "DisabilityAdjustedLifeYears2019": 1.4,
+    "FrequencyOfOpiateUse": 0.53
+  },
+  {
+    "country": "Iran",
+    "DrugUseDisorder2019": 678401,
+    "DrugUseDeathRatePer100Kin2019": 3.12,
+    "DisabilityAdjustedLifeYears2019": 1.9,
+    "FrequencyOfOpiateUse": 3.31
+  },
+  {
+    "country": "Turkey",
+    "DrugUseDisorder2019": 333918,
+    "DrugUseDeathRatePer100Kin2019": 0.38,
+    "DisabilityAdjustedLifeYears2019": 0.9,
+    "FrequencyOfOpiateUse": 0.05
+  },
+  {
+    "country": "Germany",
+    "DrugUseDisorder2019": 709400,
+    "DrugUseDeathRatePer100Kin2019": 1.86,
+    "DisabilityAdjustedLifeYears2019": 2.2,
+    "FrequencyOfOpiateUse": 0.22
+  },
+  {
+    "country": "Thailand",
+    "DrugUseDisorder2019": 556835,
+    "DrugUseDeathRatePer100Kin2019": 0.61,
+    "DisabilityAdjustedLifeYears2019": 1.2,
+    "FrequencyOfOpiateUse": 0.2
+  },
+  {
+    "country": "Tanzania",
+    "DrugUseDisorder2019": 215986,
+    "DrugUseDeathRatePer100Kin2019": 0.58,
+    "DisabilityAdjustedLifeYears2019": 0.5,
+    "FrequencyOfOpiateUse": 0.02
+  },
+  {
+    "country": "United Kingdom",
+    "DrugUseDisorder2019": 1205422,
+    "DrugUseDeathRatePer100Kin2019": 3.68,
+    "DisabilityAdjustedLifeYears2019": 3.2,
+    "FrequencyOfOpiateUse": 0.73
+  },
+  {
+    "country": "France",
+    "DrugUseDisorder2019": 635752,
+    "DrugUseDeathRatePer100Kin2019": 1.75,
+    "DisabilityAdjustedLifeYears2019": 2.2,
+    "FrequencyOfOpiateUse": 0.52
+  },
+  {
+    "country": "South Africa",
+    "DrugUseDisorder2019": 582748,
+    "DrugUseDeathRatePer100Kin2019": 0.21,
+    "DisabilityAdjustedLifeYears2019": 1.1,
+    "FrequencyOfOpiateUse": 0.41
+  },
+  {
+    "country": "Italy",
+    "DrugUseDisorder2019": 460283,
+    "DrugUseDeathRatePer100Kin2019": 0.84,
+    "DisabilityAdjustedLifeYears2019": 1.1,
+    "FrequencyOfOpiateUse": 0.52
+  },
+  {
+    "country": "Kenya",
+    "DrugUseDisorder2019": 167126,
+    "DrugUseDeathRatePer100Kin2019": 0.29,
+    "DisabilityAdjustedLifeYears2019": 0.4,
+    "FrequencyOfOpiateUse": 0.22
+  },
+  {
+    "country": "Myanmar",
+    "DrugUseDisorder2019": 294637,
+    "DrugUseDeathRatePer100Kin2019": 0.4,
+    "DisabilityAdjustedLifeYears2019": 0.6,
+    "FrequencyOfOpiateUse": 0.8
+  },
+  {
+    "country": "Colombia",
+    "DrugUseDisorder2019": 439406,
+    "DrugUseDeathRatePer100Kin2019": 0.24,
+    "DisabilityAdjustedLifeYears2019": 1.5,
+    "FrequencyOfOpiateUse": 0.1
+  },
+  {
+    "country": "South Korea",
+    "DrugUseDisorder2019": 403882,
+    "DrugUseDeathRatePer100Kin2019": 0.16,
+    "DisabilityAdjustedLifeYears2019": 2,
+    "FrequencyOfOpiateUse": 0.2
+  },
+  {
+    "country": "Uganda",
+    "DrugUseDisorder2019": 173777,
+    "DrugUseDeathRatePer100Kin2019": 0.22,
+    "DisabilityAdjustedLifeYears2019": 0.3,
+    "FrequencyOfOpiateUse": 0.3
+  },
+  {
+    "country": "Sudan",
+    "DrugUseDisorder2019": 132615,
+    "DrugUseDeathRatePer100Kin2019": 1.2,
+    "DisabilityAdjustedLifeYears2019": 0.5,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Spain",
+    "DrugUseDisorder2019": 598324,
+    "DrugUseDeathRatePer100Kin2019": 1.25,
+    "DisabilityAdjustedLifeYears2019": 1.7,
+    "FrequencyOfOpiateUse": 0.21
+  },
+  {
+    "country": "Iraq",
+    "DrugUseDisorder2019": 165080,
+    "DrugUseDeathRatePer100Kin2019": 1.63,
+    "DisabilityAdjustedLifeYears2019": 0.8,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Algeria",
+    "DrugUseDisorder2019": 202848,
+    "DrugUseDeathRatePer100Kin2019": 1.29,
+    "DisabilityAdjustedLifeYears2019": 1,
+    "FrequencyOfOpiateUse": 0.1
+  },
+  {
+    "country": "Argentina",
+    "DrugUseDisorder2019": 320645,
+    "DrugUseDeathRatePer100Kin2019": 0.17,
+    "DisabilityAdjustedLifeYears2019": 1.5,
+    "FrequencyOfOpiateUse": 0.1
+  },
+  {
+    "country": "Afghanistan",
+    "DrugUseDisorder2019": 177387,
+    "DrugUseDeathRatePer100Kin2019": 1.6,
+    "DisabilityAdjustedLifeYears2019": 0.5,
+    "FrequencyOfOpiateUse": 3.65
+  },
+  {
+    "country": "Poland",
+    "DrugUseDisorder2019": 266905,
+    "DrugUseDeathRatePer100Kin2019": 0.47,
+    "DisabilityAdjustedLifeYears2019": 2.8,
+    "FrequencyOfOpiateUse": 0.2
+  },
+  {
+    "country": "Canada",
+    "DrugUseDisorder2019": 789317,
+    "DrugUseDeathRatePer100Kin2019": 6.28,
+    "DisabilityAdjustedLifeYears2019": 3.9,
+    "FrequencyOfOpiateUse": 0.4
+  },
+  {
+    "country": "Morocco",
+    "DrugUseDisorder2019": 184153,
+    "DrugUseDeathRatePer100Kin2019": 1.15,
+    "DisabilityAdjustedLifeYears2019": 0.9,
+    "FrequencyOfOpiateUse": 0.02
+  },
+  {
+    "country": "Ukraine",
+    "DrugUseDisorder2019": 350240,
+    "DrugUseDeathRatePer100Kin2019": 2.98,
+    "DisabilityAdjustedLifeYears2019": 2.8,
+    "FrequencyOfOpiateUse": 1.16
+  },
+  {
+    "country": "Angola",
+    "DrugUseDisorder2019": 95485,
+    "DrugUseDeathRatePer100Kin2019": 0.48,
+    "DisabilityAdjustedLifeYears2019": 0.4,
+    "FrequencyOfOpiateUse": 0.3
+  },
+  {
+    "country": "Saudi Arabia",
+    "DrugUseDisorder2019": 194022,
+    "DrugUseDeathRatePer100Kin2019": 0.52,
+    "DisabilityAdjustedLifeYears2019": 1.1,
+    "FrequencyOfOpiateUse": 0.01
+  },
+  {
+    "country": "Uzbekistan",
+    "DrugUseDisorder2019": 164819,
+    "DrugUseDeathRatePer100Kin2019": 0.62,
+    "DisabilityAdjustedLifeYears2019": 1.1,
+    "FrequencyOfOpiateUse": 0.93
+  },
+  {
+    "country": "Yemen",
+    "DrugUseDisorder2019": 93071,
+    "DrugUseDeathRatePer100Kin2019": 1.15,
+    "DisabilityAdjustedLifeYears2019": 0.4,
+    "FrequencyOfOpiateUse": 0.09
+  },
+  {
+    "country": "Mozambique",
+    "DrugUseDisorder2019": 100534,
+    "DrugUseDeathRatePer100Kin2019": 0.82,
+    "DisabilityAdjustedLifeYears2019": 0.4,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Ghana",
+    "DrugUseDisorder2019": 163386,
+    "DrugUseDeathRatePer100Kin2019": 0.25,
+    "DisabilityAdjustedLifeYears2019": 0.6,
+    "FrequencyOfOpiateUse": 0.1
+  },
+  {
+    "country": "Peru",
+    "DrugUseDisorder2019": 320009,
+    "DrugUseDeathRatePer100Kin2019": 0.48,
+    "DisabilityAdjustedLifeYears2019": 1.5,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Malaysia",
+    "DrugUseDisorder2019": 205370,
+    "DrugUseDeathRatePer100Kin2019": 0.43,
+    "DisabilityAdjustedLifeYears2019": 1,
+    "FrequencyOfOpiateUse": 0.94
+  },
+  {
+    "country": "Nepal",
+    "DrugUseDisorder2019": 122082,
+    "DrugUseDeathRatePer100Kin2019": 0.14,
+    "DisabilityAdjustedLifeYears2019": 0.7,
+    "FrequencyOfOpiateUse": 0.4
+  },
+  {
+    "country": "Madagascar",
+    "DrugUseDisorder2019": 93063,
+    "DrugUseDeathRatePer100Kin2019": 0.31,
+    "DisabilityAdjustedLifeYears2019": 0.5,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Ivory Coast",
+    "DrugUseDisorder2019": 60257,
+    "DrugUseDeathRatePer100Kin2019": 0.23,
+    "DisabilityAdjustedLifeYears2019": 0.3,
+    "FrequencyOfOpiateUse": 0.1
+  },
+  {
+    "country": "Venezuela",
+    "DrugUseDisorder2019": 117791,
+    "DrugUseDeathRatePer100Kin2019": 0.31,
+    "DisabilityAdjustedLifeYears2019": 0.9,
+    "FrequencyOfOpiateUse": 0.1
+  },
+  {
+    "country": "Cameroon",
+    "DrugUseDisorder2019": 122959,
+    "DrugUseDeathRatePer100Kin2019": 0.41,
+    "DisabilityAdjustedLifeYears2019": 0.4,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Niger",
+    "DrugUseDisorder2019": 55180,
+    "DrugUseDeathRatePer100Kin2019": 0.12,
+    "DisabilityAdjustedLifeYears2019": 0.1,
+    "FrequencyOfOpiateUse": 0.1
+  },
+  {
+    "country": "Australia",
+    "DrugUseDisorder2019": 499546,
+    "DrugUseDeathRatePer100Kin2019": 4.11,
+    "DisabilityAdjustedLifeYears2019": 3.5,
+    "FrequencyOfOpiateUse": 0.2
+  },
+  {
+    "country": "North Korea",
+    "DrugUseDisorder2019": 155580,
+    "DrugUseDeathRatePer100Kin2019": 1.11,
+    "DisabilityAdjustedLifeYears2019": 1,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Syria",
+    "DrugUseDisorder2019": 52405,
+    "DrugUseDeathRatePer100Kin2019": 1.29,
+    "DisabilityAdjustedLifeYears2019": 0.7,
+    "FrequencyOfOpiateUse": 0.02
+  },
+  {
+    "country": "Mali",
+    "DrugUseDisorder2019": 50730,
+    "DrugUseDeathRatePer100Kin2019": 0.15,
+    "DisabilityAdjustedLifeYears2019": 0.1,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Taiwan",
+    "DrugUseDisorder2019": 163762,
+    "DrugUseDeathRatePer100Kin2019": 1.78,
+    "DisabilityAdjustedLifeYears2019": 1.6,
+    "FrequencyOfOpiateUse": 0.3
+  },
+  {
+    "country": "Burkina Faso",
+    "DrugUseDisorder2019": 52470,
+    "DrugUseDeathRatePer100Kin2019": 0.47,
+    "DisabilityAdjustedLifeYears2019": 0.2,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Sri Lanka",
+    "DrugUseDisorder2019": 126432,
+    "DrugUseDeathRatePer100Kin2019": 0.57,
+    "DisabilityAdjustedLifeYears2019": 1.1,
+    "FrequencyOfOpiateUse": 0.3
+  },
+  {
+    "country": "Malawi",
+    "DrugUseDisorder2019": 65057,
+    "DrugUseDeathRatePer100Kin2019": 0.36,
+    "DisabilityAdjustedLifeYears2019": 0.5,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Zambia",
+    "DrugUseDisorder2019": 60380,
+    "DrugUseDeathRatePer100Kin2019": 0.56,
+    "DisabilityAdjustedLifeYears2019": 0.5,
+    "FrequencyOfOpiateUse": 0.4
+  },
+  {
+    "country": "Kazakhstan",
+    "DrugUseDisorder2019": 142933,
+    "DrugUseDeathRatePer100Kin2019": 3.87,
+    "DisabilityAdjustedLifeYears2019": 3.7,
+    "FrequencyOfOpiateUse": 1.03
+  },
+  {
+    "country": "Chile",
+    "DrugUseDisorder2019": 203334,
+    "DrugUseDeathRatePer100Kin2019": 0.34,
+    "DisabilityAdjustedLifeYears2019": 2.2,
+    "FrequencyOfOpiateUse": 0.3
+  },
+  {
+    "country": "Romania",
+    "DrugUseDisorder2019": 57440,
+    "DrugUseDeathRatePer100Kin2019": 0.57,
+    "DisabilityAdjustedLifeYears2019": 1.1,
+    "FrequencyOfOpiateUse": 0.17
+  },
+  {
+    "country": "Chad",
+    "DrugUseDisorder2019": 37919,
+    "DrugUseDeathRatePer100Kin2019": 0.17,
+    "DisabilityAdjustedLifeYears2019": 0.1,
+    "FrequencyOfOpiateUse": 0.2
+  },
+  {
+    "country": "Somalia",
+    "DrugUseDisorder2019": 66296,
+    "DrugUseDeathRatePer100Kin2019": 0.2,
+    "DisabilityAdjustedLifeYears2019": 0.2,
+    "FrequencyOfOpiateUse": 0.2
+  },
+  {
+    "country": "Ecuador",
+    "DrugUseDisorder2019": 113750,
+    "DrugUseDeathRatePer100Kin2019": 0.4,
+    "DisabilityAdjustedLifeYears2019": 1.2,
+    "FrequencyOfOpiateUse": 0.1
+  },
+  {
+    "country": "Guatemala",
+    "DrugUseDisorder2019": 70271,
+    "DrugUseDeathRatePer100Kin2019": 1.35,
+    "DisabilityAdjustedLifeYears2019": 3.1,
+    "FrequencyOfOpiateUse": 0.2
+  },
+  {
+    "country": "Senegal",
+    "DrugUseDisorder2019": 46610,
+    "DrugUseDeathRatePer100Kin2019": 0.2,
+    "DisabilityAdjustedLifeYears2019": 0.4,
+    "FrequencyOfOpiateUse": 0.08
+  },
+  {
+    "country": "Netherlands",
+    "DrugUseDisorder2019": 158650,
+    "DrugUseDeathRatePer100Kin2019": 0.93,
+    "DisabilityAdjustedLifeYears2019": 1.6,
+    "FrequencyOfOpiateUse": 0.13
+  },
+  {
+    "country": "Cambodia",
+    "DrugUseDisorder2019": 78662,
+    "DrugUseDeathRatePer100Kin2019": 0.25,
+    "DisabilityAdjustedLifeYears2019": 0.6,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Zimbabwe",
+    "DrugUseDisorder2019": 86175,
+    "DrugUseDeathRatePer100Kin2019": 1.38,
+    "DisabilityAdjustedLifeYears2019": 0.7,
+    "FrequencyOfOpiateUse": 0.04
+  },
+  {
+    "country": "Guinea",
+    "DrugUseDisorder2019": 30274,
+    "DrugUseDeathRatePer100Kin2019": 0.22,
+    "DisabilityAdjustedLifeYears2019": 0.2,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Rwanda",
+    "DrugUseDisorder2019": 83054,
+    "DrugUseDeathRatePer100Kin2019": 0.23,
+    "DisabilityAdjustedLifeYears2019": 1,
+    "FrequencyOfOpiateUse": 0.1
+  },
+  {
+    "country": "Benin",
+    "DrugUseDisorder2019": 39855,
+    "DrugUseDeathRatePer100Kin2019": 0.2,
+    "DisabilityAdjustedLifeYears2019": 0.3,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Burundi",
+    "DrugUseDisorder2019": 38157,
+    "DrugUseDeathRatePer100Kin2019": 0.25,
+    "DisabilityAdjustedLifeYears2019": 0.4,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Bolivia",
+    "DrugUseDisorder2019": 94446,
+    "DrugUseDeathRatePer100Kin2019": 0.55,
+    "DisabilityAdjustedLifeYears2019": 1.2,
+    "FrequencyOfOpiateUse": 0.07
+  },
+  {
+    "country": "Tunisia",
+    "DrugUseDisorder2019": 53755,
+    "DrugUseDeathRatePer100Kin2019": 1.24,
+    "DisabilityAdjustedLifeYears2019": 1,
+    "FrequencyOfOpiateUse": 0.03
+  },
+  {
+    "country": "Haiti",
+    "DrugUseDisorder2019": 80148,
+    "DrugUseDeathRatePer100Kin2019": 0.37,
+    "DisabilityAdjustedLifeYears2019": 0.7,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Belgium",
+    "DrugUseDisorder2019": 106717,
+    "DrugUseDeathRatePer100Kin2019": 1.66,
+    "DisabilityAdjustedLifeYears2019": 2.2,
+    "FrequencyOfOpiateUse": 0.4
+  },
+  {
+    "country": "Dominican Republic",
+    "DrugUseDisorder2019": 71994,
+    "DrugUseDeathRatePer100Kin2019": 0.51,
+    "DisabilityAdjustedLifeYears2019": 1,
+    "FrequencyOfOpiateUse": 0.1
+  },
+  {
+    "country": "Jordan",
+    "DrugUseDisorder2019": 52508,
+    "DrugUseDeathRatePer100Kin2019": 0.19,
+    "DisabilityAdjustedLifeYears2019": 1,
+    "FrequencyOfOpiateUse": 0.2
+  },
+  {
+    "country": "South Sudan",
+    "DrugUseDisorder2019": 29969,
+    "DrugUseDeathRatePer100Kin2019": 0.21,
+    "DisabilityAdjustedLifeYears2019": 0.3,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Cuba",
+    "DrugUseDisorder2019": 81285,
+    "DrugUseDeathRatePer100Kin2019": 0.2,
+    "DisabilityAdjustedLifeYears2019": 1.4,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Honduras",
+    "DrugUseDisorder2019": 50746,
+    "DrugUseDeathRatePer100Kin2019": 1.57,
+    "DisabilityAdjustedLifeYears2019": 1.8,
+    "FrequencyOfOpiateUse": 0.1
+  },
+  {
+    "country": "Sweden",
+    "DrugUseDisorder2019": 73709,
+    "DrugUseDeathRatePer100Kin2019": 4.53,
+    "DisabilityAdjustedLifeYears2019": 2.6,
+    "FrequencyOfOpiateUse": 0.1
+  },
+  {
+    "country": "Papua New Guinea",
+    "DrugUseDisorder2019": 71075,
+    "DrugUseDeathRatePer100Kin2019": 0.31,
+    "DisabilityAdjustedLifeYears2019": 0.5,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Czech Republic",
+    "DrugUseDisorder2019": 92869,
+    "DrugUseDeathRatePer100Kin2019": 1.05,
+    "DisabilityAdjustedLifeYears2019": 1.8,
+    "FrequencyOfOpiateUse": 0.4
+  },
+  {
+    "country": "Azerbaijan",
+    "DrugUseDisorder2019": 50267,
+    "DrugUseDeathRatePer100Kin2019": 0.37,
+    "DisabilityAdjustedLifeYears2019": 1.6,
+    "FrequencyOfOpiateUse": 0.2
+  },
+  {
+    "country": "Tajikistan",
+    "DrugUseDisorder2019": 43304,
+    "DrugUseDeathRatePer100Kin2019": 0.34,
+    "DisabilityAdjustedLifeYears2019": 1.4,
+    "FrequencyOfOpiateUse": 0.52
+  },
+  {
+    "country": "Greece",
+    "DrugUseDisorder2019": 54078,
+    "DrugUseDeathRatePer100Kin2019": 1.89,
+    "DisabilityAdjustedLifeYears2019": 1.2,
+    "FrequencyOfOpiateUse": 0.23
+  },
+  {
+    "country": "Portugal",
+    "DrugUseDisorder2019": 67455,
+    "DrugUseDeathRatePer100Kin2019": 0.38,
+    "DisabilityAdjustedLifeYears2019": 1.6,
+    "FrequencyOfOpiateUse": 0.49
+  },
+  {
+    "country": "Hungary",
+    "DrugUseDisorder2019": 54554,
+    "DrugUseDeathRatePer100Kin2019": 0.58,
+    "DisabilityAdjustedLifeYears2019": 1.5,
+    "FrequencyOfOpiateUse": 0.13
+  },
+  {
+    "country": "United Arab Emirates",
+    "DrugUseDisorder2019": 85127,
+    "DrugUseDeathRatePer100Kin2019": 5.82,
+    "DisabilityAdjustedLifeYears2019": 3.7,
+    "FrequencyOfOpiateUse": 0.02
+  },
+  {
+    "country": "Belarus",
+    "DrugUseDisorder2019": 75030,
+    "DrugUseDeathRatePer100Kin2019": 1.82,
+    "DisabilityAdjustedLifeYears2019": 4.1,
+    "FrequencyOfOpiateUse": 0.76
+  },
+  {
+    "country": "Israel",
+    "DrugUseDisorder2019": 69426,
+    "DrugUseDeathRatePer100Kin2019": 0.64,
+    "DisabilityAdjustedLifeYears2019": 1.4,
+    "FrequencyOfOpiateUse": 0.4
+  },
+  {
+    "country": "Togo",
+    "DrugUseDisorder2019": 21486,
+    "DrugUseDeathRatePer100Kin2019": 0.32,
+    "DisabilityAdjustedLifeYears2019": 0.3,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Sierra Leone",
+    "DrugUseDisorder2019": 28730,
+    "DrugUseDeathRatePer100Kin2019": 0.19,
+    "DisabilityAdjustedLifeYears2019": 0.3,
+    "FrequencyOfOpiateUse": 0.2
+  },
+  {
+    "country": "Austria",
+    "DrugUseDisorder2019": 85885,
+    "DrugUseDeathRatePer100Kin2019": 1.53,
+    "DisabilityAdjustedLifeYears2019": 2.6,
+    "FrequencyOfOpiateUse": 0.5
+  },
+  {
+    "country": "Switzerland",
+    "DrugUseDisorder2019": 103680,
+    "DrugUseDeathRatePer100Kin2019": 2.16,
+    "DisabilityAdjustedLifeYears2019": 2.5,
+    "FrequencyOfOpiateUse": 0.43
+  },
+  {
+    "country": "Laos",
+    "DrugUseDisorder2019": 37418,
+    "DrugUseDeathRatePer100Kin2019": 0.26,
+    "DisabilityAdjustedLifeYears2019": 0.6,
+    "FrequencyOfOpiateUse": 0.37
+  },
+  {
+    "country": "Hong Kong",
+    "DrugUseDisorder2019": null,
+    "DrugUseDeathRatePer100Kin2019": null,
+    "DisabilityAdjustedLifeYears2019": null,
+    "FrequencyOfOpiateUse": 0.2
+  },
+  {
+    "country": "Nicaragua",
+    "DrugUseDisorder2019": 24817,
+    "DrugUseDeathRatePer100Kin2019": 0.22,
+    "DisabilityAdjustedLifeYears2019": 2.5,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Serbia",
+    "DrugUseDisorder2019": 33278,
+    "DrugUseDeathRatePer100Kin2019": 0.78,
+    "DisabilityAdjustedLifeYears2019": 1.3,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Libya",
+    "DrugUseDisorder2019": 65496,
+    "DrugUseDeathRatePer100Kin2019": 2.67,
+    "DisabilityAdjustedLifeYears2019": 2.1,
+    "FrequencyOfOpiateUse": 0.1
+  },
+  {
+    "country": "Paraguay",
+    "DrugUseDisorder2019": 52955,
+    "DrugUseDeathRatePer100Kin2019": 0.22,
+    "DisabilityAdjustedLifeYears2019": 2.3,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Kyrgyzstan",
+    "DrugUseDisorder2019": 35383,
+    "DrugUseDeathRatePer100Kin2019": 1.04,
+    "DisabilityAdjustedLifeYears2019": 2.8,
+    "FrequencyOfOpiateUse": 0.89
+  },
+  {
+    "country": "Bulgaria",
+    "DrugUseDisorder2019": 36438,
+    "DrugUseDeathRatePer100Kin2019": 0.94,
+    "DisabilityAdjustedLifeYears2019": 0.8,
+    "FrequencyOfOpiateUse": 0.5
+  },
+  {
+    "country": "Turkmenistan",
+    "DrugUseDisorder2019": 27289,
+    "DrugUseDeathRatePer100Kin2019": 1.26,
+    "DisabilityAdjustedLifeYears2019": 2,
+    "FrequencyOfOpiateUse": 0.32
+  },
+  {
+    "country": "El Salvador",
+    "DrugUseDisorder2019": 23531,
+    "DrugUseDeathRatePer100Kin2019": 0.18,
+    "DisabilityAdjustedLifeYears2019": 3.5,
+    "FrequencyOfOpiateUse": 0.11
+  },
+  {
+    "country": "Republic of the Congo",
+    "DrugUseDisorder2019": 20681,
+    "DrugUseDeathRatePer100Kin2019": 0.63,
+    "DisabilityAdjustedLifeYears2019": 0.6,
+    "FrequencyOfOpiateUse": 0.1
+  },
+  {
+    "country": "Singapore",
+    "DrugUseDisorder2019": 43836,
+    "DrugUseDeathRatePer100Kin2019": 0.23,
+    "DisabilityAdjustedLifeYears2019": 1.1,
+    "FrequencyOfOpiateUse": 0.004
+  },
+  {
+    "country": "Denmark",
+    "DrugUseDisorder2019": 53012,
+    "DrugUseDeathRatePer100Kin2019": 3.16,
+    "DisabilityAdjustedLifeYears2019": 3.6,
+    "FrequencyOfOpiateUse": 0.52
+  },
+  {
+    "country": "Central African Republic",
+    "DrugUseDisorder2019": 17324,
+    "DrugUseDeathRatePer100Kin2019": 0.41,
+    "DisabilityAdjustedLifeYears2019": 0.2,
+    "FrequencyOfOpiateUse": 0.1
+  },
+  {
+    "country": "Slovakia",
+    "DrugUseDisorder2019": 34411,
+    "DrugUseDeathRatePer100Kin2019": 0.29,
+    "DisabilityAdjustedLifeYears2019": 1.7,
+    "FrequencyOfOpiateUse": 0.13
+  },
+  {
+    "country": "Finland",
+    "DrugUseDisorder2019": 49722,
+    "DrugUseDeathRatePer100Kin2019": 4.93,
+    "DisabilityAdjustedLifeYears2019": 3.3,
+    "FrequencyOfOpiateUse": 0.1
+  },
+  {
+    "country": "Liberia",
+    "DrugUseDisorder2019": 19284,
+    "DrugUseDeathRatePer100Kin2019": 0.21,
+    "DisabilityAdjustedLifeYears2019": 0.4,
+    "FrequencyOfOpiateUse": 0.2
+  },
+  {
+    "country": "Norway",
+    "DrugUseDisorder2019": 49583,
+    "DrugUseDeathRatePer100Kin2019": 3.99,
+    "DisabilityAdjustedLifeYears2019": 2.8,
+    "FrequencyOfOpiateUse": 0.27
+  },
+  {
+    "country": "Palestine",
+    "DrugUseDisorder2019": 22217,
+    "DrugUseDeathRatePer100Kin2019": 0.22,
+    "DisabilityAdjustedLifeYears2019": 0.7,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "New Zealand",
+    "DrugUseDisorder2019": 66159,
+    "DrugUseDeathRatePer100Kin2019": 1.38,
+    "DisabilityAdjustedLifeYears2019": 2.4,
+    "FrequencyOfOpiateUse": 0.1
+  },
+  {
+    "country": "Costa Rica",
+    "DrugUseDisorder2019": 29427,
+    "DrugUseDeathRatePer100Kin2019": 0.51,
+    "DisabilityAdjustedLifeYears2019": 1.7,
+    "FrequencyOfOpiateUse": 0.1
+  },
+  {
+    "country": "Lebanon",
+    "DrugUseDisorder2019": 38763,
+    "DrugUseDeathRatePer100Kin2019": 2.34,
+    "DisabilityAdjustedLifeYears2019": 1.6,
+    "FrequencyOfOpiateUse": 0.2
+  },
+  {
+    "country": "Ireland",
+    "DrugUseDisorder2019": 55183,
+    "DrugUseDeathRatePer100Kin2019": 3.87,
+    "DisabilityAdjustedLifeYears2019": 3.5,
+    "FrequencyOfOpiateUse": 0.72
+  },
+  {
+    "country": "Mauritania",
+    "DrugUseDisorder2019": 13586,
+    "DrugUseDeathRatePer100Kin2019": 0.2,
+    "DisabilityAdjustedLifeYears2019": 0.5,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Oman",
+    "DrugUseDisorder2019": 22173,
+    "DrugUseDeathRatePer100Kin2019": 0.39,
+    "DisabilityAdjustedLifeYears2019": 1.1,
+    "FrequencyOfOpiateUse": 0.09
+  },
+  {
+    "country": "Panama",
+    "DrugUseDisorder2019": 22984,
+    "DrugUseDeathRatePer100Kin2019": 0.45,
+    "DisabilityAdjustedLifeYears2019": 1.2,
+    "FrequencyOfOpiateUse": 0.2
+  },
+  {
+    "country": "Kuwait",
+    "DrugUseDisorder2019": 23279,
+    "DrugUseDeathRatePer100Kin2019": 0.59,
+    "DisabilityAdjustedLifeYears2019": 1.3,
+    "FrequencyOfOpiateUse": 0.2
+  },
+  {
+    "country": "Croatia",
+    "DrugUseDisorder2019": 28268,
+    "DrugUseDeathRatePer100Kin2019": 1.43,
+    "DisabilityAdjustedLifeYears2019": 1.8,
+    "FrequencyOfOpiateUse": 0.35
+  },
+  {
+    "country": "Eritrea",
+    "DrugUseDisorder2019": 26063,
+    "DrugUseDeathRatePer100Kin2019": 0.36,
+    "DisabilityAdjustedLifeYears2019": 0.6,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Georgia",
+    "DrugUseDisorder2019": 16896,
+    "DrugUseDeathRatePer100Kin2019": 0.58,
+    "DisabilityAdjustedLifeYears2019": 1.1,
+    "FrequencyOfOpiateUse": 0.72
+  },
+  {
+    "country": "Mongolia",
+    "DrugUseDisorder2019": 20329,
+    "DrugUseDeathRatePer100Kin2019": 0.63,
+    "DisabilityAdjustedLifeYears2019": 4,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Uruguay",
+    "DrugUseDisorder2019": 40937,
+    "DrugUseDeathRatePer100Kin2019": 0.37,
+    "DisabilityAdjustedLifeYears2019": 1.6,
+    "FrequencyOfOpiateUse": 0.2
+  },
+  {
+    "country": "Moldova",
+    "DrugUseDisorder2019": 23472,
+    "DrugUseDeathRatePer100Kin2019": 0.59,
+    "DisabilityAdjustedLifeYears2019": 2.3,
+    "FrequencyOfOpiateUse": 0.07
+  },
+  {
+    "country": "Puerto Rico",
+    "DrugUseDisorder2019": 31328,
+    "DrugUseDeathRatePer100Kin2019": 1.4,
+    "DisabilityAdjustedLifeYears2019": 1.6,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "DrugUseDisorder2019": 11070,
+    "DrugUseDeathRatePer100Kin2019": 0.25,
+    "DisabilityAdjustedLifeYears2019": 1.1,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Gambia",
+    "DrugUseDisorder2019": 7479,
+    "DrugUseDeathRatePer100Kin2019": 0.24,
+    "DisabilityAdjustedLifeYears2019": 0.4,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Albania",
+    "DrugUseDisorder2019": 12335,
+    "DrugUseDeathRatePer100Kin2019": 0.89,
+    "DisabilityAdjustedLifeYears2019": 1.1,
+    "FrequencyOfOpiateUse": 0.45
+  },
+  {
+    "country": "Jamaica",
+    "DrugUseDisorder2019": 31273,
+    "DrugUseDeathRatePer100Kin2019": 0.21,
+    "DisabilityAdjustedLifeYears2019": 1,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Armenia",
+    "DrugUseDisorder2019": 15699,
+    "DrugUseDeathRatePer100Kin2019": 0.28,
+    "DisabilityAdjustedLifeYears2019": 1.4,
+    "FrequencyOfOpiateUse": 0.2
+  },
+  {
+    "country": "Qatar",
+    "DrugUseDisorder2019": 17687,
+    "DrugUseDeathRatePer100Kin2019": 0.3,
+    "DisabilityAdjustedLifeYears2019": 1.7,
+    "FrequencyOfOpiateUse": 0.01
+  },
+  {
+    "country": "Botswana",
+    "DrugUseDisorder2019": 15286,
+    "DrugUseDeathRatePer100Kin2019": 0.37,
+    "DisabilityAdjustedLifeYears2019": 0.9,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Lithuania",
+    "DrugUseDisorder2019": 20217,
+    "DrugUseDeathRatePer100Kin2019": 5.9,
+    "DisabilityAdjustedLifeYears2019": 3,
+    "FrequencyOfOpiateUse": 0.24
+  },
+  {
+    "country": "Namibia",
+    "DrugUseDisorder2019": 17654,
+    "DrugUseDeathRatePer100Kin2019": 0.32,
+    "DisabilityAdjustedLifeYears2019": 1.1,
+    "FrequencyOfOpiateUse": 0.03
+  },
+  {
+    "country": "Gabon",
+    "DrugUseDisorder2019": 7818,
+    "DrugUseDeathRatePer100Kin2019": 0.74,
+    "DisabilityAdjustedLifeYears2019": 0.8,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Lesotho",
+    "DrugUseDisorder2019": 13796,
+    "DrugUseDeathRatePer100Kin2019": 0.42,
+    "DisabilityAdjustedLifeYears2019": 0.6,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Guinea-Bissau",
+    "DrugUseDisorder2019": 5465,
+    "DrugUseDeathRatePer100Kin2019": 0.3,
+    "DisabilityAdjustedLifeYears2019": 0.3,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Slovenia",
+    "DrugUseDisorder2019": 12757,
+    "DrugUseDeathRatePer100Kin2019": 1.35,
+    "DisabilityAdjustedLifeYears2019": 2.5,
+    "FrequencyOfOpiateUse": 0.49
+  },
+  {
+    "country": "North Macedonia",
+    "DrugUseDisorder2019": 8843,
+    "DrugUseDeathRatePer100Kin2019": 0.56,
+    "DisabilityAdjustedLifeYears2019": 1,
+    "FrequencyOfOpiateUse": 0.5
+  },
+  {
+    "country": "Latvia",
+    "DrugUseDisorder2019": 19737,
+    "DrugUseDeathRatePer100Kin2019": 2.31,
+    "DisabilityAdjustedLifeYears2019": 3,
+    "FrequencyOfOpiateUse": 0.49
+  },
+  {
+    "country": "Equatorial Guinea",
+    "DrugUseDisorder2019": 6359,
+    "DrugUseDeathRatePer100Kin2019": 0.56,
+    "DisabilityAdjustedLifeYears2019": 0.6,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "DrugUseDisorder2019": 10822,
+    "DrugUseDeathRatePer100Kin2019": 0.59,
+    "DisabilityAdjustedLifeYears2019": 1.1,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Bahrain",
+    "DrugUseDisorder2019": 6735,
+    "DrugUseDeathRatePer100Kin2019": 0.24,
+    "DisabilityAdjustedLifeYears2019": 1.1,
+    "FrequencyOfOpiateUse": 0.3
+  },
+  {
+    "country": "Timor-Leste",
+    "DrugUseDisorder2019": 7314,
+    "DrugUseDeathRatePer100Kin2019": 0.17,
+    "DisabilityAdjustedLifeYears2019": null,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Estonia",
+    "DrugUseDisorder2019": 17882,
+    "DrugUseDeathRatePer100Kin2019": 9.95,
+    "DisabilityAdjustedLifeYears2019": 5,
+    "FrequencyOfOpiateUse": 0.81
+  },
+  {
+    "country": "Mauritius",
+    "DrugUseDisorder2019": 8742,
+    "DrugUseDeathRatePer100Kin2019": 0.95,
+    "DisabilityAdjustedLifeYears2019": 1.6,
+    "FrequencyOfOpiateUse": 0.91
+  },
+  {
+    "country": "Cyprus",
+    "DrugUseDisorder2019": 8260,
+    "DrugUseDeathRatePer100Kin2019": 1.1,
+    "DisabilityAdjustedLifeYears2019": 1.6,
+    "FrequencyOfOpiateUse": 0.25
+  },
+  {
+    "country": "Eswatini",
+    "DrugUseDisorder2019": 8315,
+    "DrugUseDeathRatePer100Kin2019": 0.43,
+    "DisabilityAdjustedLifeYears2019": 0.8,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Djibouti",
+    "DrugUseDisorder2019": 4577,
+    "DrugUseDeathRatePer100Kin2019": 0.33,
+    "DisabilityAdjustedLifeYears2019": 0.6,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Fiji",
+    "DrugUseDisorder2019": 6407,
+    "DrugUseDeathRatePer100Kin2019": 0.35,
+    "DisabilityAdjustedLifeYears2019": 0.5,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Comoros",
+    "DrugUseDisorder2019": 2577,
+    "DrugUseDeathRatePer100Kin2019": 0.29,
+    "DisabilityAdjustedLifeYears2019": 0.6,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Guyana",
+    "DrugUseDisorder2019": 5756,
+    "DrugUseDeathRatePer100Kin2019": 0.29,
+    "DisabilityAdjustedLifeYears2019": 1.1,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Bhutan",
+    "DrugUseDisorder2019": 3234,
+    "DrugUseDeathRatePer100Kin2019": 0.29,
+    "DisabilityAdjustedLifeYears2019": 1.3,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Solomon Islands",
+    "DrugUseDisorder2019": 4727,
+    "DrugUseDeathRatePer100Kin2019": 0.77,
+    "DisabilityAdjustedLifeYears2019": 0.6,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Macau",
+    "DrugUseDisorder2019": null,
+    "DrugUseDeathRatePer100Kin2019": null,
+    "DisabilityAdjustedLifeYears2019": null,
+    "FrequencyOfOpiateUse": 1.1
+  },
+  {
+    "country": "Luxembourg",
+    "DrugUseDisorder2019": 7176,
+    "DrugUseDeathRatePer100Kin2019": 2.04,
+    "DisabilityAdjustedLifeYears2019": 3,
+    "FrequencyOfOpiateUse": 0.59
+  },
+  {
+    "country": "Suriname",
+    "DrugUseDisorder2019": 4012,
+    "DrugUseDeathRatePer100Kin2019": 0.58,
+    "DisabilityAdjustedLifeYears2019": 1.1,
+    "FrequencyOfOpiateUse": 0.02
+  },
+  {
+    "country": "Montenegro",
+    "DrugUseDisorder2019": 3574,
+    "DrugUseDeathRatePer100Kin2019": 0.15,
+    "DisabilityAdjustedLifeYears2019": 1.1,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Cape Verde",
+    "DrugUseDisorder2019": 3059,
+    "DrugUseDeathRatePer100Kin2019": 0.21,
+    "DisabilityAdjustedLifeYears2019": 0.9,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Malta",
+    "DrugUseDisorder2019": 3436,
+    "DrugUseDeathRatePer100Kin2019": 1.85,
+    "DisabilityAdjustedLifeYears2019": 1.7,
+    "FrequencyOfOpiateUse": 0.59
+  },
+  {
+    "country": "Maldives",
+    "DrugUseDisorder2019": 3290,
+    "DrugUseDeathRatePer100Kin2019": 0.33,
+    "DisabilityAdjustedLifeYears2019": 1.2,
+    "FrequencyOfOpiateUse": 1.34
+  },
+  {
+    "country": "Brunei",
+    "DrugUseDisorder2019": 4084,
+    "DrugUseDeathRatePer100Kin2019": 0.66,
+    "DisabilityAdjustedLifeYears2019": 1.2,
+    "FrequencyOfOpiateUse": 0.01
+  },
+  {
+    "country": "Belize",
+    "DrugUseDisorder2019": 3943,
+    "DrugUseDeathRatePer100Kin2019": 0.24,
+    "DisabilityAdjustedLifeYears2019": 1.4,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Bahamas",
+    "DrugUseDisorder2019": 3726,
+    "DrugUseDeathRatePer100Kin2019": 0.4,
+    "DisabilityAdjustedLifeYears2019": 1.7,
+    "FrequencyOfOpiateUse": 0.2
+  },
+  {
+    "country": "Iceland",
+    "DrugUseDisorder2019": 3387,
+    "DrugUseDeathRatePer100Kin2019": 3.69,
+    "DisabilityAdjustedLifeYears2019": 3.1,
+    "FrequencyOfOpiateUse": 0.3
+  },
+  {
+    "country": "Vanuatu",
+    "DrugUseDisorder2019": 1777,
+    "DrugUseDeathRatePer100Kin2019": 0.54,
+    "DisabilityAdjustedLifeYears2019": 0.6,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Barbados",
+    "DrugUseDisorder2019": 2905,
+    "DrugUseDeathRatePer100Kin2019": 0.23,
+    "DisabilityAdjustedLifeYears2019": 1,
+    "FrequencyOfOpiateUse": 0.11
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "DrugUseDisorder2019": 707,
+    "DrugUseDeathRatePer100Kin2019": 0.64,
+    "DisabilityAdjustedLifeYears2019": 0.7,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Samoa",
+    "DrugUseDisorder2019": 2223,
+    "DrugUseDeathRatePer100Kin2019": 0.52,
+    "DisabilityAdjustedLifeYears2019": 0.7,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Saint Lucia",
+    "DrugUseDisorder2019": 2104,
+    "DrugUseDeathRatePer100Kin2019": 0.38,
+    "DisabilityAdjustedLifeYears2019": 1.6,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Guam",
+    "DrugUseDisorder2019": 1268,
+    "DrugUseDeathRatePer100Kin2019": 0.67,
+    "DisabilityAdjustedLifeYears2019": 0.9,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Kiribati",
+    "DrugUseDisorder2019": 839,
+    "DrugUseDeathRatePer100Kin2019": 0.94,
+    "DisabilityAdjustedLifeYears2019": 0.4,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Grenada",
+    "DrugUseDisorder2019": 999,
+    "DrugUseDeathRatePer100Kin2019": 0.8,
+    "DisabilityAdjustedLifeYears2019": 1.5,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Micronesia",
+    "DrugUseDisorder2019": 825,
+    "DrugUseDeathRatePer100Kin2019": 0.92,
+    "DisabilityAdjustedLifeYears2019": null,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Tonga",
+    "DrugUseDisorder2019": 812,
+    "DrugUseDeathRatePer100Kin2019": 0.4,
+    "DisabilityAdjustedLifeYears2019": 0.8,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Seychelles",
+    "DrugUseDisorder2019": 934,
+    "DrugUseDeathRatePer100Kin2019": 0.81,
+    "DisabilityAdjustedLifeYears2019": 0.9,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "DrugUseDisorder2019": 1004,
+    "DrugUseDeathRatePer100Kin2019": 0.26,
+    "DisabilityAdjustedLifeYears2019": 1.7,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "United States Virgin Islands",
+    "DrugUseDisorder2019": 774,
+    "DrugUseDeathRatePer100Kin2019": 1.71,
+    "DisabilityAdjustedLifeYears2019": 2,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "DrugUseDisorder2019": 743,
+    "DrugUseDeathRatePer100Kin2019": 0.44,
+    "DisabilityAdjustedLifeYears2019": 2.3,
+    "FrequencyOfOpiateUse": 0.05
+  },
+  {
+    "country": "Andorra",
+    "DrugUseDisorder2019": 753,
+    "DrugUseDeathRatePer100Kin2019": 0.36,
+    "DisabilityAdjustedLifeYears2019": 1.8,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Dominica",
+    "DrugUseDisorder2019": 691,
+    "DrugUseDeathRatePer100Kin2019": 0.61,
+    "DisabilityAdjustedLifeYears2019": 1.5,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Bermuda",
+    "DrugUseDisorder2019": 525,
+    "DrugUseDeathRatePer100Kin2019": 1.05,
+    "DisabilityAdjustedLifeYears2019": 1.4,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Greenland",
+    "DrugUseDisorder2019": 899,
+    "DrugUseDeathRatePer100Kin2019": 3.08,
+    "DisabilityAdjustedLifeYears2019": 3.9,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Northern Mariana Islands",
+    "DrugUseDisorder2019": 330,
+    "DrugUseDeathRatePer100Kin2019": 0.71,
+    "DisabilityAdjustedLifeYears2019": 1.2,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "DrugUseDisorder2019": 492,
+    "DrugUseDeathRatePer100Kin2019": 0.35,
+    "DisabilityAdjustedLifeYears2019": 0.7,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "American Samoa",
+    "DrugUseDisorder2019": 416,
+    "DrugUseDeathRatePer100Kin2019": 0.64,
+    "DisabilityAdjustedLifeYears2019": 0.7,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Marshall Islands",
+    "DrugUseDisorder2019": 435,
+    "DrugUseDeathRatePer100Kin2019": 0.89,
+    "DisabilityAdjustedLifeYears2019": 0.8,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Monaco",
+    "DrugUseDisorder2019": 305,
+    "DrugUseDeathRatePer100Kin2019": 0.26,
+    "DisabilityAdjustedLifeYears2019": 1.1,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "San Marino",
+    "DrugUseDisorder2019": 309,
+    "DrugUseDeathRatePer100Kin2019": 0.25,
+    "DisabilityAdjustedLifeYears2019": 1.6,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Palau",
+    "DrugUseDisorder2019": 128,
+    "DrugUseDeathRatePer100Kin2019": 0.6,
+    "DisabilityAdjustedLifeYears2019": 0.6,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Cook Islands",
+    "DrugUseDisorder2019": 125,
+    "DrugUseDeathRatePer100Kin2019": 0.31,
+    "DisabilityAdjustedLifeYears2019": 0.9,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Nauru",
+    "DrugUseDisorder2019": 82,
+    "DrugUseDeathRatePer100Kin2019": 0.98,
+    "DisabilityAdjustedLifeYears2019": 0.8,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Tuvalu",
+    "DrugUseDisorder2019": 89,
+    "DrugUseDeathRatePer100Kin2019": 0.69,
+    "DisabilityAdjustedLifeYears2019": 0.7,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Niue",
+    "DrugUseDisorder2019": 12,
+    "DrugUseDeathRatePer100Kin2019": 0.65,
+    "DisabilityAdjustedLifeYears2019": 0.6,
+    "FrequencyOfOpiateUse": null
+  },
+  {
+    "country": "Tokelau",
+    "DrugUseDisorder2019": 9,
+    "DrugUseDeathRatePer100Kin2019": 0.53,
+    "DisabilityAdjustedLifeYears2019": 0.7,
+    "FrequencyOfOpiateUse": null
+  }
+]

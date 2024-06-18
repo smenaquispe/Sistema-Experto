@@ -1,92 +1,30 @@
-from experta import *
-import csv
 import numpy as np
+import pandas as pd
 
-csv_file = "transactions.csv"
+csv_path = "resorts.csv"
 
-transactions = []
+df = pd.read_csv(csv_path, encoding='cp1252', delimiter=',')
 
-with open(csv_file, 'r') as file:
-    csv_reader = csv.DictReader(file)
-    for row in csv_reader:
-        row['Amount'] = float(row['Amount'])  # Convertir el monto a un número
-        transactions.append(row)
+"""
+df.head
 
-class Transaction(Fact):
-    def __str__(self):
-        return "Transaction(AccountNumber={}, Amount={})".format(self['account_number'],self['amount'])
+   ID                        Resort   Latitude   Longitude  ... Child friendly Snowparks  Nightskiing Summer skiing
+0   1                      Hemsedal  60.928244    8.383487  ...            Yes       Yes          Yes            No
+1   2              Geilosiden Geilo  60.534526    8.206372  ...            Yes       Yes          Yes            No
+2   3                          Golm  47.057810    9.828167  ...            Yes        No           No            No
+3   4  Red Mountain Resort-Rossland  49.105520 -117.846280  ...            Yes       Yes          Yes            No
+4   5                       Hafjell  61.230369   10.529014  ...            Yes       Yes          Yes            No
 
-class History(Fact):
-    pass
+"""
 
-class FraudDetector(KnowledgeEngine):
+# voy a extraer la columna country y contar cuantas veces aparece cada país
 
-    """
-    Hallamos si hay un fraude en la transacción
-    con respecto a la historia de transacciones
-    y un monto de transacción dado.
-    """
-    @Rule(AS.tr << Transaction(),
-          AS.h << History(transactions=MATCH.transactions))
-    def fraud_amount(self, tr, h):
+countries = {}
 
-        mounts = [t['Amount'] for t in h['transactions']]
-        mean = np.mean(mounts)
-        d_std = np.std(mounts)
-        max_amount = mean + 3 * d_std
-        min_amount = mean - 3 * d_std
+for country in df["Country"]:
+    if country in countries:
+        countries[country] += 1
+    else:
+        countries[country] = 1
 
-        if tr['amount'] > max_amount or tr['amount'] < min_amount:
-            print("Fraud detected based on amount in transaction: ", tr)
-        else:
-            print("Transaction is not fraud based on amount: ", tr)
-    
-    """
-    Hallamos si hay un fraude en la transacción
-    con respecto
-    a la historia de transacciones y la ciudad de la transacción.
-    """
-    @Rule(AS.tr << Transaction(),
-        AS.h << History(transactions=MATCH.transactions))
-    def fraud_city(self, tr, h):
-        cities = [t['City'] for t in h['transactions']]
-        if tr['city'] not in cities:
-            print("Fraud detected based on city in transaction: ", tr)
-        else:
-            print("Transaction is not fraud based on city: ", tr)
-    
-    """
-    Hallamos si hay un fraude en la transacción
-    con respecto
-    a la historia de transacciones y la hora de la transacción.
-    """
-    @Rule(AS.tr << Transaction(),
-    AS.h << History(transactions=MATCH.transactions))
-    def fraud_time(self, tr, h):
-        times = [t['Time'] for t in h['transactions']]
-        # Convertir las horas a minutos para comparar
-        def time_to_minutes(time_str):
-            hours, minutes, _ = map(int, time_str.split(':'))
-            return hours * 60 + minutes
-
-        transaction_minutes = time_to_minutes(tr['time'])
-        transaction_times_in_minutes = [time_to_minutes(t) for t in times]
-
-        mean_time = np.mean(transaction_times_in_minutes)
-        d_std_time = np.std(transaction_times_in_minutes)
-        max_time = mean_time + 3 * d_std_time
-        min_time = mean_time - 3 * d_std_time
-
-        if transaction_minutes > max_time or transaction_minutes < min_time:
-            print("Fraud detected based on time in transaction: ", tr)
-        else:
-            print("Transaction is not fraud based on time: ", tr)
-
-
-
-engine = FraudDetector()
-engine.reset()
-user_transactions = [transaction for transaction in transactions if transaction['AccountNumber'] == "1001"]
-engine.declare(History(transactions=user_transactions))
-engine.declare(Transaction(amount=1000, account_number="1001", city="Lima", time="24:00:00"))
-engine.run()
+print(countries)

@@ -1,0 +1,27 @@
+[
+  {
+    "country": "Japan",
+    "continent": "Asia",
+    "BestCountriesToVisit": "yes"
+  },
+  {
+    "country": "Morocco",
+    "continent": "Africa",
+    "BestCountriesToVisit": "yes"
+  },
+  {
+    "country": "Sri Lanka",
+    "continent": "Asia",
+    "BestCountriesToVisit": "yes"
+  },
+  {
+    "country": "Switzerland",
+    "continent": "Europe",
+    "BestCountriesToVisit": "yes"
+  },
+  {
+    "country": "New Zealand",
+    "continent": "Oceania",
+    "BestCountriesToVisit": "yes"
+  }
+]

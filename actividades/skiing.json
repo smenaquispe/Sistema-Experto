@@ -1,0 +1,494 @@
+[
+  {
+    "country": "India",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 22
+  },
+  {
+    "country": "China",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 386
+  },
+  {
+    "country": "United States",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": 48.74,
+    "SkiingCountries_SkiResorts": 529
+  },
+  {
+    "country": "Indonesia",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 1
+  },
+  {
+    "country": "Pakistan",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 3
+  },
+  {
+    "country": "Brazil",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 2
+  },
+  {
+    "country": "Russia",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 175
+  },
+  {
+    "country": "Mexico",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 1
+  },
+  {
+    "country": "Japan",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": 54.7,
+    "SkiingCountries_SkiResorts": 565
+  },
+  {
+    "country": "Egypt",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 2
+  },
+  {
+    "country": "Iran",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 34
+  },
+  {
+    "country": "Turkey",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 42
+  },
+  {
+    "country": "Germany",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 669
+  },
+  {
+    "country": "Thailand",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 2
+  },
+  {
+    "country": "United Kingdom",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 83
+  },
+  {
+    "country": "France",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": 56.21,
+    "SkiingCountries_SkiResorts": 249
+  },
+  {
+    "country": "South Africa",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 3
+  },
+  {
+    "country": "Italy",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": 53.77,
+    "SkiingCountries_SkiResorts": 287
+  },
+  {
+    "country": "South Korea",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 21
+  },
+  {
+    "country": "Spain",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 33
+  },
+  {
+    "country": "Iraq",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 2
+  },
+  {
+    "country": "Algeria",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 1
+  },
+  {
+    "country": "Argentina",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 21
+  },
+  {
+    "country": "Poland",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 271
+  },
+  {
+    "country": "Canada",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": 50.88,
+    "SkiingCountries_SkiResorts": 290
+  },
+  {
+    "country": "Morocco",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 5
+  },
+  {
+    "country": "Ukraine",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 56
+  },
+  {
+    "country": "Uzbekistan",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 6
+  },
+  {
+    "country": "Peru",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 2
+  },
+  {
+    "country": "Malaysia",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 5
+  },
+  {
+    "country": "Nepal",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 2
+  },
+  {
+    "country": "Australia",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 15
+  },
+  {
+    "country": "North Korea",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 4
+  },
+  {
+    "country": "Kazakhstan",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 7
+  },
+  {
+    "country": "Chile",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 19
+  },
+  {
+    "country": "Romania",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 100
+  },
+  {
+    "country": "Netherlands",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 61
+  },
+  {
+    "country": "Belgium",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 11
+  },
+  {
+    "country": "Sweden",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 254
+  },
+  {
+    "country": "Czech Republic",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 316
+  },
+  {
+    "country": "Azerbaijan",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 3
+  },
+  {
+    "country": "Greece",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 25
+  },
+  {
+    "country": "Portugal",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 3
+  },
+  {
+    "country": "Hungary",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 15
+  },
+  {
+    "country": "United Arab Emirates",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 6
+  },
+  {
+    "country": "Belarus",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 6
+  },
+  {
+    "country": "Israel",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 2
+  },
+  {
+    "country": "Austria",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": 52.16,
+    "SkiingCountries_SkiResorts": 439
+  },
+  {
+    "country": "Switzerland",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": 57.41,
+    "SkiingCountries_SkiResorts": 356
+  },
+  {
+    "country": "Serbia",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 29
+  },
+  {
+    "country": "Kyrgyzstan",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 23
+  },
+  {
+    "country": "Bulgaria",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 23
+  },
+  {
+    "country": "Turkmenistan",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 5
+  },
+  {
+    "country": "Singapore",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 1
+  },
+  {
+    "country": "Denmark",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 12
+  },
+  {
+    "country": "Slovakia",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 126
+  },
+  {
+    "country": "Finland",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 80
+  },
+  {
+    "country": "Norway",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 173
+  },
+  {
+    "country": "New Zealand",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 38
+  },
+  {
+    "country": "Lebanon",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 7
+  },
+  {
+    "country": "Ireland",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 1
+  },
+  {
+    "country": "Croatia",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 11
+  },
+  {
+    "country": "Georgia",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 7
+  },
+  {
+    "country": "Mongolia",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 1
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 22
+  },
+  {
+    "country": "Albania",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 6
+  },
+  {
+    "country": "Armenia",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 4
+  },
+  {
+    "country": "Qatar",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 3
+  },
+  {
+    "country": "Lithuania",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 12
+  },
+  {
+    "country": "Namibia",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 1
+  },
+  {
+    "country": "Lesotho",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 1
+  },
+  {
+    "country": "Slovenia",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 50
+  },
+  {
+    "country": "North Macedonia",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 9
+  },
+  {
+    "country": "Latvia",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 17
+  },
+  {
+    "country": "Bahrain",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 1
+  },
+  {
+    "country": "Estonia",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 6
+  },
+  {
+    "country": "Cyprus",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 1
+  },
+  {
+    "country": "Montenegro",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 11
+  },
+  {
+    "country": "Iceland",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 13
+  },
+  {
+    "country": "Andorra",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": 52.78,
+    "SkiingCountries_SkiResorts": 4
+  },
+  {
+    "country": "Greenland",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 13
+  },
+  {
+    "country": "Liechtenstein",
+    "SkiingCountries": "Yes",
+    "SkiingCountries_SkiIndexScore": null,
+    "SkiingCountries_SkiResorts": 3
+  }
+]

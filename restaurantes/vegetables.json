@@ -1,0 +1,1094 @@
+[
+  {
+    "country": "India",
+    "VegetableConsumption2020": 60.29,
+    "VegetableConsumption2019": 61.96,
+    "VegetableConsumptionRelativeChange": -2.7
+  },
+  {
+    "country": "China",
+    "VegetableConsumption2020": 323.74,
+    "VegetableConsumption2019": 321.88,
+    "VegetableConsumptionRelativeChange": 0.58
+  },
+  {
+    "country": "Indonesia",
+    "VegetableConsumption2020": 37.04,
+    "VegetableConsumption2019": 35.98,
+    "VegetableConsumptionRelativeChange": 2.95
+  },
+  {
+    "country": "Pakistan",
+    "VegetableConsumption2020": 14.34,
+    "VegetableConsumption2019": 14.09,
+    "VegetableConsumptionRelativeChange": 1.77
+  },
+  {
+    "country": "Nigeria",
+    "VegetableConsumption2020": 46.15,
+    "VegetableConsumption2019": 47.26,
+    "VegetableConsumptionRelativeChange": -2.35
+  },
+  {
+    "country": "Brazil",
+    "VegetableConsumption2020": 24.91,
+    "VegetableConsumption2019": 25.19,
+    "VegetableConsumptionRelativeChange": -1.11
+  },
+  {
+    "country": "Bangladesh",
+    "VegetableConsumption2020": 29.24,
+    "VegetableConsumption2019": 24.89,
+    "VegetableConsumptionRelativeChange": 17.48
+  },
+  {
+    "country": "Russia",
+    "VegetableConsumption2020": 62.88,
+    "VegetableConsumption2019": 67,
+    "VegetableConsumptionRelativeChange": -6.15
+  },
+  {
+    "country": "Ethiopia",
+    "VegetableConsumption2020": 10.07,
+    "VegetableConsumption2019": 10.6,
+    "VegetableConsumptionRelativeChange": -5
+  },
+  {
+    "country": "Mexico",
+    "VegetableConsumption2020": 38,
+    "VegetableConsumption2019": 39.24,
+    "VegetableConsumptionRelativeChange": -3.16
+  },
+  {
+    "country": "Japan",
+    "VegetableConsumption2020": 76.75,
+    "VegetableConsumption2019": 78.17,
+    "VegetableConsumptionRelativeChange": -1.82
+  },
+  {
+    "country": "Philippines",
+    "VegetableConsumption2020": 54.49,
+    "VegetableConsumption2019": 55.43,
+    "VegetableConsumptionRelativeChange": -1.7
+  },
+  {
+    "country": "Egypt",
+    "VegetableConsumption2020": 64.99,
+    "VegetableConsumption2019": 63.39,
+    "VegetableConsumptionRelativeChange": 2.52
+  },
+  {
+    "country": "DR Congo",
+    "VegetableConsumption2020": 5.06,
+    "VegetableConsumption2019": 5.27,
+    "VegetableConsumptionRelativeChange": -3.98
+  },
+  {
+    "country": "Vietnam",
+    "VegetableConsumption2020": 169.34,
+    "VegetableConsumption2019": 166.46,
+    "VegetableConsumptionRelativeChange": 1.73
+  },
+  {
+    "country": "Iran",
+    "VegetableConsumption2020": 83.17,
+    "VegetableConsumption2019": 64.63,
+    "VegetableConsumptionRelativeChange": 28.69
+  },
+  {
+    "country": "Turkey",
+    "VegetableConsumption2020": 118.45,
+    "VegetableConsumption2019": 122.71,
+    "VegetableConsumptionRelativeChange": -3.47
+  },
+  {
+    "country": "Germany",
+    "VegetableConsumption2020": 68.44,
+    "VegetableConsumption2019": 65.53,
+    "VegetableConsumptionRelativeChange": 4.44
+  },
+  {
+    "country": "Thailand",
+    "VegetableConsumption2020": 37.42,
+    "VegetableConsumption2019": 36.09,
+    "VegetableConsumptionRelativeChange": 3.69
+  },
+  {
+    "country": "Tanzania",
+    "VegetableConsumption2020": 29.52,
+    "VegetableConsumption2019": 34.17,
+    "VegetableConsumptionRelativeChange": -13.61
+  },
+  {
+    "country": "United Kingdom",
+    "VegetableConsumption2020": 62.05,
+    "VegetableConsumption2019": 57.85,
+    "VegetableConsumptionRelativeChange": 7.26
+  },
+  {
+    "country": "France",
+    "VegetableConsumption2020": 63.75,
+    "VegetableConsumption2019": 64.72,
+    "VegetableConsumptionRelativeChange": -1.5
+  },
+  {
+    "country": "South Africa",
+    "VegetableConsumption2020": 19.45,
+    "VegetableConsumption2019": 19.6,
+    "VegetableConsumptionRelativeChange": -0.77
+  },
+  {
+    "country": "Italy",
+    "VegetableConsumption2020": 60.9,
+    "VegetableConsumption2019": 64.63,
+    "VegetableConsumptionRelativeChange": -5.77
+  },
+  {
+    "country": "Kenya",
+    "VegetableConsumption2020": 45.48,
+    "VegetableConsumption2019": 42.84,
+    "VegetableConsumptionRelativeChange": 6.16
+  },
+  {
+    "country": "Myanmar",
+    "VegetableConsumption2020": 63.02,
+    "VegetableConsumption2019": 62.99,
+    "VegetableConsumptionRelativeChange": 0.05
+  },
+  {
+    "country": "Colombia",
+    "VegetableConsumption2020": 28.79,
+    "VegetableConsumption2019": 29.82,
+    "VegetableConsumptionRelativeChange": -3.45
+  },
+  {
+    "country": "South Korea",
+    "VegetableConsumption2020": 164.23,
+    "VegetableConsumption2019": 160.42,
+    "VegetableConsumptionRelativeChange": 2.38
+  },
+  {
+    "country": "Uganda",
+    "VegetableConsumption2020": 21.87,
+    "VegetableConsumption2019": 21.79,
+    "VegetableConsumptionRelativeChange": 0.37
+  },
+  {
+    "country": "Sudan",
+    "VegetableConsumption2020": 27.18,
+    "VegetableConsumption2019": 27.63,
+    "VegetableConsumptionRelativeChange": -1.63
+  },
+  {
+    "country": "Spain",
+    "VegetableConsumption2020": 50.68,
+    "VegetableConsumption2019": 46.35,
+    "VegetableConsumptionRelativeChange": 9.34
+  },
+  {
+    "country": "Iraq",
+    "VegetableConsumption2020": 66.45,
+    "VegetableConsumption2019": 56.51,
+    "VegetableConsumptionRelativeChange": 17.59
+  },
+  {
+    "country": "Algeria",
+    "VegetableConsumption2020": 144.54,
+    "VegetableConsumption2019": 137.39,
+    "VegetableConsumptionRelativeChange": 5.2
+  },
+  {
+    "country": "Argentina",
+    "VegetableConsumption2020": 38.08,
+    "VegetableConsumption2019": 37.86,
+    "VegetableConsumptionRelativeChange": 0.58
+  },
+  {
+    "country": "Afghanistan",
+    "VegetableConsumption2020": 74.55,
+    "VegetableConsumption2019": 55.39,
+    "VegetableConsumptionRelativeChange": 34.59
+  },
+  {
+    "country": "Poland",
+    "VegetableConsumption2020": 69.74,
+    "VegetableConsumption2019": 73.64,
+    "VegetableConsumptionRelativeChange": -5.3
+  },
+  {
+    "country": "Canada",
+    "VegetableConsumption2020": 69.53,
+    "VegetableConsumption2019": 70.77,
+    "VegetableConsumptionRelativeChange": -1.75
+  },
+  {
+    "country": "Morocco",
+    "VegetableConsumption2020": 52.94,
+    "VegetableConsumption2019": 58.87,
+    "VegetableConsumptionRelativeChange": -10.07
+  },
+  {
+    "country": "Ukraine",
+    "VegetableConsumption2020": 103.06,
+    "VegetableConsumption2019": 106.63,
+    "VegetableConsumptionRelativeChange": -3.35
+  },
+  {
+    "country": "Angola",
+    "VegetableConsumption2020": 19.85,
+    "VegetableConsumption2019": 20.49,
+    "VegetableConsumptionRelativeChange": -3.12
+  },
+  {
+    "country": "Saudi Arabia",
+    "VegetableConsumption2020": 38.82,
+    "VegetableConsumption2019": 41.25,
+    "VegetableConsumptionRelativeChange": -5.89
+  },
+  {
+    "country": "Uzbekistan",
+    "VegetableConsumption2020": 173.79,
+    "VegetableConsumption2019": 174.55,
+    "VegetableConsumptionRelativeChange": -0.44
+  },
+  {
+    "country": "Yemen",
+    "VegetableConsumption2020": 10.82,
+    "VegetableConsumption2019": 10.66,
+    "VegetableConsumptionRelativeChange": 1.5
+  },
+  {
+    "country": "Mozambique",
+    "VegetableConsumption2020": 6.23,
+    "VegetableConsumption2019": 6.4,
+    "VegetableConsumptionRelativeChange": -2.66
+  },
+  {
+    "country": "Ghana",
+    "VegetableConsumption2020": 8.69,
+    "VegetableConsumption2019": 8.6,
+    "VegetableConsumptionRelativeChange": 1.05
+  },
+  {
+    "country": "Peru",
+    "VegetableConsumption2020": 45.35,
+    "VegetableConsumption2019": 48.77,
+    "VegetableConsumptionRelativeChange": -7.01
+  },
+  {
+    "country": "Malaysia",
+    "VegetableConsumption2020": 45.3,
+    "VegetableConsumption2019": 44.59,
+    "VegetableConsumptionRelativeChange": 1.59
+  },
+  {
+    "country": "Nepal",
+    "VegetableConsumption2020": 133.07,
+    "VegetableConsumption2019": 139.22,
+    "VegetableConsumptionRelativeChange": -4.42
+  },
+  {
+    "country": "Madagascar",
+    "VegetableConsumption2020": 12.48,
+    "VegetableConsumption2019": 13.32,
+    "VegetableConsumptionRelativeChange": -6.31
+  },
+  {
+    "country": "Ivory Coast",
+    "VegetableConsumption2020": 30.19,
+    "VegetableConsumption2019": 33.51,
+    "VegetableConsumptionRelativeChange": -9.91
+  },
+  {
+    "country": "Venezuela",
+    "VegetableConsumption2020": 35.12,
+    "VegetableConsumption2019": 33,
+    "VegetableConsumptionRelativeChange": 6.42
+  },
+  {
+    "country": "Cameroon",
+    "VegetableConsumption2020": 57.35,
+    "VegetableConsumption2019": 58.56,
+    "VegetableConsumptionRelativeChange": -2.07
+  },
+  {
+    "country": "Niger",
+    "VegetableConsumption2020": 68.19,
+    "VegetableConsumption2019": 59.05,
+    "VegetableConsumptionRelativeChange": 15.48
+  },
+  {
+    "country": "Australia",
+    "VegetableConsumption2020": 57.26,
+    "VegetableConsumption2019": 61.31,
+    "VegetableConsumptionRelativeChange": -6.61
+  },
+  {
+    "country": "North Korea",
+    "VegetableConsumption2020": 117.37,
+    "VegetableConsumption2019": 118.63,
+    "VegetableConsumptionRelativeChange": -1.06
+  },
+  {
+    "country": "Mali",
+    "VegetableConsumption2020": 126.11,
+    "VegetableConsumption2019": 111.45,
+    "VegetableConsumptionRelativeChange": 13.15
+  },
+  {
+    "country": "Taiwan",
+    "VegetableConsumption2020": 88.49,
+    "VegetableConsumption2019": 102.76,
+    "VegetableConsumptionRelativeChange": -13.89
+  },
+  {
+    "country": "Burkina Faso",
+    "VegetableConsumption2020": 45.76,
+    "VegetableConsumption2019": 50.82,
+    "VegetableConsumptionRelativeChange": -9.96
+  },
+  {
+    "country": "Sri Lanka",
+    "VegetableConsumption2020": 48.24,
+    "VegetableConsumption2019": 30.45,
+    "VegetableConsumptionRelativeChange": 58.42
+  },
+  {
+    "country": "Malawi",
+    "VegetableConsumption2020": 45.37,
+    "VegetableConsumption2019": 42.35,
+    "VegetableConsumptionRelativeChange": 7.13
+  },
+  {
+    "country": "Zambia",
+    "VegetableConsumption2020": 16.66,
+    "VegetableConsumption2019": 17.94,
+    "VegetableConsumptionRelativeChange": -7.13
+  },
+  {
+    "country": "Kazakhstan",
+    "VegetableConsumption2020": 190.26,
+    "VegetableConsumption2019": 176.58,
+    "VegetableConsumptionRelativeChange": 7.75
+  },
+  {
+    "country": "Chile",
+    "VegetableConsumption2020": 51.53,
+    "VegetableConsumption2019": 49.23,
+    "VegetableConsumptionRelativeChange": 4.67
+  },
+  {
+    "country": "Romania",
+    "VegetableConsumption2020": 92.26,
+    "VegetableConsumption2019": 93.3,
+    "VegetableConsumptionRelativeChange": -1.11
+  },
+  {
+    "country": "Chad",
+    "VegetableConsumption2020": 4.94,
+    "VegetableConsumption2019": 5.08,
+    "VegetableConsumptionRelativeChange": -2.76
+  },
+  {
+    "country": "Ecuador",
+    "VegetableConsumption2020": 18.15,
+    "VegetableConsumption2019": 17.79,
+    "VegetableConsumptionRelativeChange": 2.02
+  },
+  {
+    "country": "Guatemala",
+    "VegetableConsumption2020": 39.3,
+    "VegetableConsumption2019": 37.3,
+    "VegetableConsumptionRelativeChange": 5.36
+  },
+  {
+    "country": "Senegal",
+    "VegetableConsumption2020": 115.64,
+    "VegetableConsumption2019": 88.25,
+    "VegetableConsumptionRelativeChange": 31.04
+  },
+  {
+    "country": "Netherlands",
+    "VegetableConsumption2020": 65.8,
+    "VegetableConsumption2019": 67.86,
+    "VegetableConsumptionRelativeChange": -3.04
+  },
+  {
+    "country": "Cambodia",
+    "VegetableConsumption2020": 34.27,
+    "VegetableConsumption2019": 34.72,
+    "VegetableConsumptionRelativeChange": -1.3
+  },
+  {
+    "country": "Zimbabwe",
+    "VegetableConsumption2020": 12.13,
+    "VegetableConsumption2019": 12.34,
+    "VegetableConsumptionRelativeChange": -1.7
+  },
+  {
+    "country": "Guinea",
+    "VegetableConsumption2020": 39.58,
+    "VegetableConsumption2019": 40.59,
+    "VegetableConsumptionRelativeChange": -2.49
+  },
+  {
+    "country": "Rwanda",
+    "VegetableConsumption2020": 37.94,
+    "VegetableConsumption2019": 36.72,
+    "VegetableConsumptionRelativeChange": 3.32
+  },
+  {
+    "country": "Benin",
+    "VegetableConsumption2020": 27.98,
+    "VegetableConsumption2019": 29.14,
+    "VegetableConsumptionRelativeChange": -3.98
+  },
+  {
+    "country": "Burundi",
+    "VegetableConsumption2020": 37.17,
+    "VegetableConsumption2019": 38.04,
+    "VegetableConsumptionRelativeChange": -2.29
+  },
+  {
+    "country": "Bolivia",
+    "VegetableConsumption2020": 23.84,
+    "VegetableConsumption2019": 23.97,
+    "VegetableConsumptionRelativeChange": -0.54
+  },
+  {
+    "country": "Tunisia",
+    "VegetableConsumption2020": 150.78,
+    "VegetableConsumption2019": 153.48,
+    "VegetableConsumptionRelativeChange": -1.76
+  },
+  {
+    "country": "Haiti",
+    "VegetableConsumption2020": 13.54,
+    "VegetableConsumption2019": 13.93,
+    "VegetableConsumptionRelativeChange": -2.8
+  },
+  {
+    "country": "Belgium",
+    "VegetableConsumption2020": 113.97,
+    "VegetableConsumption2019": 116.28,
+    "VegetableConsumptionRelativeChange": -1.99
+  },
+  {
+    "country": "Dominican Republic",
+    "VegetableConsumption2020": 78.51,
+    "VegetableConsumption2019": 73.54,
+    "VegetableConsumptionRelativeChange": 6.76
+  },
+  {
+    "country": "Jordan",
+    "VegetableConsumption2020": 60.38,
+    "VegetableConsumption2019": 59.55,
+    "VegetableConsumptionRelativeChange": 1.39
+  },
+  {
+    "country": "South Sudan",
+    "VegetableConsumption2020": 45.69,
+    "VegetableConsumption2019": 45.79,
+    "VegetableConsumptionRelativeChange": -0.22
+  },
+  {
+    "country": "Cuba",
+    "VegetableConsumption2020": 62.47,
+    "VegetableConsumption2019": 71.84,
+    "VegetableConsumptionRelativeChange": -13.04
+  },
+  {
+    "country": "Honduras",
+    "VegetableConsumption2020": 26.24,
+    "VegetableConsumption2019": 21.15,
+    "VegetableConsumptionRelativeChange": 24.07
+  },
+  {
+    "country": "Sweden",
+    "VegetableConsumption2020": 62.95,
+    "VegetableConsumption2019": 61.37,
+    "VegetableConsumptionRelativeChange": 2.57
+  },
+  {
+    "country": "Papua New Guinea",
+    "VegetableConsumption2020": 56.15,
+    "VegetableConsumption2019": 57.13,
+    "VegetableConsumptionRelativeChange": -1.72
+  },
+  {
+    "country": "Azerbaijan",
+    "VegetableConsumption2020": 104.75,
+    "VegetableConsumption2019": 110.33,
+    "VegetableConsumptionRelativeChange": -5.06
+  },
+  {
+    "country": "Tajikistan",
+    "VegetableConsumption2020": 160.38,
+    "VegetableConsumption2019": 155.02,
+    "VegetableConsumptionRelativeChange": 3.46
+  },
+  {
+    "country": "Greece",
+    "VegetableConsumption2020": 80.63,
+    "VegetableConsumption2019": 75.94,
+    "VegetableConsumptionRelativeChange": 6.18
+  },
+  {
+    "country": "Portugal",
+    "VegetableConsumption2020": 87.89,
+    "VegetableConsumption2019": 62.68,
+    "VegetableConsumptionRelativeChange": 40.22
+  },
+  {
+    "country": "Hungary",
+    "VegetableConsumption2020": 65.36,
+    "VegetableConsumption2019": 66.61,
+    "VegetableConsumptionRelativeChange": -1.88
+  },
+  {
+    "country": "United Arab Emirates",
+    "VegetableConsumption2020": 43.44,
+    "VegetableConsumption2019": 45.76,
+    "VegetableConsumptionRelativeChange": -5.07
+  },
+  {
+    "country": "Belarus",
+    "VegetableConsumption2020": 100.38,
+    "VegetableConsumption2019": 112.66,
+    "VegetableConsumptionRelativeChange": -10.9
+  },
+  {
+    "country": "Israel",
+    "VegetableConsumption2020": 87.61,
+    "VegetableConsumption2019": 85.83,
+    "VegetableConsumptionRelativeChange": 2.07
+  },
+  {
+    "country": "Togo",
+    "VegetableConsumption2020": 15.79,
+    "VegetableConsumption2019": 15.95,
+    "VegetableConsumptionRelativeChange": -1
+  },
+  {
+    "country": "Sierra Leone",
+    "VegetableConsumption2020": 52.89,
+    "VegetableConsumption2019": 42.34,
+    "VegetableConsumptionRelativeChange": 24.92
+  },
+  {
+    "country": "Austria",
+    "VegetableConsumption2020": 73.27,
+    "VegetableConsumption2019": 75.84,
+    "VegetableConsumptionRelativeChange": -3.39
+  },
+  {
+    "country": "Switzerland",
+    "VegetableConsumption2020": 73.21,
+    "VegetableConsumption2019": 69.31,
+    "VegetableConsumptionRelativeChange": 5.63
+  },
+  {
+    "country": "Laos",
+    "VegetableConsumption2020": 212.98,
+    "VegetableConsumption2019": 199.06,
+    "VegetableConsumptionRelativeChange": 6.99
+  },
+  {
+    "country": "Hong Kong",
+    "VegetableConsumption2020": 125.53,
+    "VegetableConsumption2019": 113.88,
+    "VegetableConsumptionRelativeChange": 10.23
+  },
+  {
+    "country": "Nicaragua",
+    "VegetableConsumption2020": 18.55,
+    "VegetableConsumption2019": 18.34,
+    "VegetableConsumptionRelativeChange": 1.15
+  },
+  {
+    "country": "Serbia",
+    "VegetableConsumption2020": 63.98,
+    "VegetableConsumption2019": 61.36,
+    "VegetableConsumptionRelativeChange": 4.27
+  },
+  {
+    "country": "Libya",
+    "VegetableConsumption2020": 76.8,
+    "VegetableConsumption2019": 82.83,
+    "VegetableConsumptionRelativeChange": -7.28
+  },
+  {
+    "country": "Paraguay",
+    "VegetableConsumption2020": 40.41,
+    "VegetableConsumption2019": 36.54,
+    "VegetableConsumptionRelativeChange": 10.59
+  },
+  {
+    "country": "Kyrgyzstan",
+    "VegetableConsumption2020": 116.71,
+    "VegetableConsumption2019": 116.57,
+    "VegetableConsumptionRelativeChange": 0.12
+  },
+  {
+    "country": "Bulgaria",
+    "VegetableConsumption2020": 53.26,
+    "VegetableConsumption2019": 61.38,
+    "VegetableConsumptionRelativeChange": -13.23
+  },
+  {
+    "country": "Turkmenistan",
+    "VegetableConsumption2020": 63.55,
+    "VegetableConsumption2019": 64.19,
+    "VegetableConsumptionRelativeChange": -1
+  },
+  {
+    "country": "El Salvador",
+    "VegetableConsumption2020": 57.64,
+    "VegetableConsumption2019": 58.1,
+    "VegetableConsumptionRelativeChange": -0.79
+  },
+  {
+    "country": "Denmark",
+    "VegetableConsumption2020": 73.41,
+    "VegetableConsumption2019": 75.33,
+    "VegetableConsumptionRelativeChange": -2.55
+  },
+  {
+    "country": "Central African Republic",
+    "VegetableConsumption2020": 18.12,
+    "VegetableConsumption2019": 18.53,
+    "VegetableConsumptionRelativeChange": -2.21
+  },
+  {
+    "country": "Slovakia",
+    "VegetableConsumption2020": 56.61,
+    "VegetableConsumption2019": 51.85,
+    "VegetableConsumptionRelativeChange": 9.18
+  },
+  {
+    "country": "Finland",
+    "VegetableConsumption2020": 62.24,
+    "VegetableConsumption2019": 62.36,
+    "VegetableConsumptionRelativeChange": -0.19
+  },
+  {
+    "country": "Liberia",
+    "VegetableConsumption2020": 23.79,
+    "VegetableConsumption2019": 23.72,
+    "VegetableConsumptionRelativeChange": 0.3
+  },
+  {
+    "country": "Norway",
+    "VegetableConsumption2020": 64.07,
+    "VegetableConsumption2019": 62.01,
+    "VegetableConsumptionRelativeChange": 3.32
+  },
+  {
+    "country": "New Zealand",
+    "VegetableConsumption2020": 76.4,
+    "VegetableConsumption2019": 93,
+    "VegetableConsumptionRelativeChange": -17.85
+  },
+  {
+    "country": "Costa Rica",
+    "VegetableConsumption2020": 13.31,
+    "VegetableConsumption2019": 18.24,
+    "VegetableConsumptionRelativeChange": -27.03
+  },
+  {
+    "country": "Lebanon",
+    "VegetableConsumption2020": 57.39,
+    "VegetableConsumption2019": 59.07,
+    "VegetableConsumptionRelativeChange": -2.84
+  },
+  {
+    "country": "Ireland",
+    "VegetableConsumption2020": 60.07,
+    "VegetableConsumption2019": 61.25,
+    "VegetableConsumptionRelativeChange": -1.93
+  },
+  {
+    "country": "Mauritania",
+    "VegetableConsumption2020": 25.02,
+    "VegetableConsumption2019": 24.6,
+    "VegetableConsumptionRelativeChange": 1.71
+  },
+  {
+    "country": "Oman",
+    "VegetableConsumption2020": 104.98,
+    "VegetableConsumption2019": 99.62,
+    "VegetableConsumptionRelativeChange": 5.38
+  },
+  {
+    "country": "Panama",
+    "VegetableConsumption2020": 12.58,
+    "VegetableConsumption2019": 10.61,
+    "VegetableConsumptionRelativeChange": 18.57
+  },
+  {
+    "country": "Kuwait",
+    "VegetableConsumption2020": 114.19,
+    "VegetableConsumption2019": 115.7,
+    "VegetableConsumptionRelativeChange": -1.31
+  },
+  {
+    "country": "Croatia",
+    "VegetableConsumption2020": 329.77,
+    "VegetableConsumption2019": 266.94,
+    "VegetableConsumptionRelativeChange": 23.54
+  },
+  {
+    "country": "Georgia",
+    "VegetableConsumption2020": 33.04,
+    "VegetableConsumption2019": 31.74,
+    "VegetableConsumptionRelativeChange": 4.1
+  },
+  {
+    "country": "Mongolia",
+    "VegetableConsumption2020": 50.88,
+    "VegetableConsumption2019": 48.38,
+    "VegetableConsumptionRelativeChange": 5.17
+  },
+  {
+    "country": "Uruguay",
+    "VegetableConsumption2020": 39.83,
+    "VegetableConsumption2019": 39.26,
+    "VegetableConsumptionRelativeChange": 1.45
+  },
+  {
+    "country": "Moldova",
+    "VegetableConsumption2020": 44.28,
+    "VegetableConsumption2019": 55.37,
+    "VegetableConsumptionRelativeChange": -20.03
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "VegetableConsumption2020": 218.82,
+    "VegetableConsumption2019": 215.29,
+    "VegetableConsumptionRelativeChange": 1.64
+  },
+  {
+    "country": "Gambia",
+    "VegetableConsumption2020": 10.79,
+    "VegetableConsumption2019": 11.53,
+    "VegetableConsumptionRelativeChange": -6.42
+  },
+  {
+    "country": "Albania",
+    "VegetableConsumption2020": 220.57,
+    "VegetableConsumption2019": 217.39,
+    "VegetableConsumptionRelativeChange": 1.46
+  },
+  {
+    "country": "Jamaica",
+    "VegetableConsumption2020": 81.02,
+    "VegetableConsumption2019": 84.33,
+    "VegetableConsumptionRelativeChange": -3.93
+  },
+  {
+    "country": "Armenia",
+    "VegetableConsumption2020": 170.44,
+    "VegetableConsumption2019": 159.06,
+    "VegetableConsumptionRelativeChange": 7.15
+  },
+  {
+    "country": "Qatar",
+    "VegetableConsumption2020": 88.18,
+    "VegetableConsumption2019": 88.46,
+    "VegetableConsumptionRelativeChange": -0.32
+  },
+  {
+    "country": "Botswana",
+    "VegetableConsumption2020": 43.18,
+    "VegetableConsumption2019": 41.04,
+    "VegetableConsumptionRelativeChange": 5.21
+  },
+  {
+    "country": "Lithuania",
+    "VegetableConsumption2020": 61.38,
+    "VegetableConsumption2019": 68.65,
+    "VegetableConsumptionRelativeChange": -10.59
+  },
+  {
+    "country": "Namibia",
+    "VegetableConsumption2020": 13.17,
+    "VegetableConsumption2019": 14.34,
+    "VegetableConsumptionRelativeChange": -8.16
+  },
+  {
+    "country": "Gabon",
+    "VegetableConsumption2020": 23.86,
+    "VegetableConsumption2019": 24.06,
+    "VegetableConsumptionRelativeChange": -0.83
+  },
+  {
+    "country": "Lesotho",
+    "VegetableConsumption2020": 22.32,
+    "VegetableConsumption2019": 21.66,
+    "VegetableConsumptionRelativeChange": 3.05
+  },
+  {
+    "country": "Guinea-Bissau",
+    "VegetableConsumption2020": 16.17,
+    "VegetableConsumption2019": 16.7,
+    "VegetableConsumptionRelativeChange": -3.17
+  },
+  {
+    "country": "Slovenia",
+    "VegetableConsumption2020": 84.84,
+    "VegetableConsumption2019": 80.91,
+    "VegetableConsumptionRelativeChange": 4.86
+  },
+  {
+    "country": "North Macedonia",
+    "VegetableConsumption2020": 180.67,
+    "VegetableConsumption2019": 175.54,
+    "VegetableConsumptionRelativeChange": 2.92
+  },
+  {
+    "country": "Latvia",
+    "VegetableConsumption2020": 78.05,
+    "VegetableConsumption2019": 68.7,
+    "VegetableConsumptionRelativeChange": 13.61
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "VegetableConsumption2020": 35.1,
+    "VegetableConsumption2019": 31.06,
+    "VegetableConsumptionRelativeChange": 13.01
+  },
+  {
+    "country": "Bahrain",
+    "VegetableConsumption2020": 69.67,
+    "VegetableConsumption2019": 73.23,
+    "VegetableConsumptionRelativeChange": -4.86
+  },
+  {
+    "country": "Timor-Leste",
+    "VegetableConsumption2020": 23.46,
+    "VegetableConsumption2019": 24.04,
+    "VegetableConsumptionRelativeChange": -2.41
+  },
+  {
+    "country": "Estonia",
+    "VegetableConsumption2020": 61.86,
+    "VegetableConsumption2019": 63.31,
+    "VegetableConsumptionRelativeChange": -2.29
+  },
+  {
+    "country": "Mauritius",
+    "VegetableConsumption2020": 40.57,
+    "VegetableConsumption2019": 44.62,
+    "VegetableConsumptionRelativeChange": -9.08
+  },
+  {
+    "country": "Cyprus",
+    "VegetableConsumption2020": 55.51,
+    "VegetableConsumption2019": 55.47,
+    "VegetableConsumptionRelativeChange": 0.07
+  },
+  {
+    "country": "Eswatini",
+    "VegetableConsumption2020": 17.5,
+    "VegetableConsumption2019": 18.21,
+    "VegetableConsumptionRelativeChange": -3.9
+  },
+  {
+    "country": "Djibouti",
+    "VegetableConsumption2020": 45.21,
+    "VegetableConsumption2019": 47.36,
+    "VegetableConsumptionRelativeChange": -4.54
+  },
+  {
+    "country": "Fiji",
+    "VegetableConsumption2020": 68.97,
+    "VegetableConsumption2019": 53.5,
+    "VegetableConsumptionRelativeChange": 28.92
+  },
+  {
+    "country": "Comoros",
+    "VegetableConsumption2020": 8.79,
+    "VegetableConsumption2019": 6.97,
+    "VegetableConsumptionRelativeChange": 26.11
+  },
+  {
+    "country": "Guyana",
+    "VegetableConsumption2020": 237.65,
+    "VegetableConsumption2019": 222.19,
+    "VegetableConsumptionRelativeChange": 6.96
+  },
+  {
+    "country": "Bhutan",
+    "VegetableConsumption2020": 58.14,
+    "VegetableConsumption2019": 48.42,
+    "VegetableConsumptionRelativeChange": 20.07
+  },
+  {
+    "country": "Solomon Islands",
+    "VegetableConsumption2020": 12.11,
+    "VegetableConsumption2019": 12.67,
+    "VegetableConsumptionRelativeChange": -4.42
+  },
+  {
+    "country": "Macau",
+    "VegetableConsumption2020": 126.78,
+    "VegetableConsumption2019": 196.13,
+    "VegetableConsumptionRelativeChange": -35.36
+  },
+  {
+    "country": "Luxembourg",
+    "VegetableConsumption2020": 71.15,
+    "VegetableConsumption2019": 72.12,
+    "VegetableConsumptionRelativeChange": -1.34
+  },
+  {
+    "country": "Suriname",
+    "VegetableConsumption2020": 45,
+    "VegetableConsumption2019": 46.76,
+    "VegetableConsumptionRelativeChange": -3.76
+  },
+  {
+    "country": "Montenegro",
+    "VegetableConsumption2020": 79.5,
+    "VegetableConsumption2019": 76.31,
+    "VegetableConsumptionRelativeChange": 4.18
+  },
+  {
+    "country": "Cape Verde",
+    "VegetableConsumption2020": 36.8,
+    "VegetableConsumption2019": 37.68,
+    "VegetableConsumptionRelativeChange": -2.34
+  },
+  {
+    "country": "Malta",
+    "VegetableConsumption2020": 85.82,
+    "VegetableConsumption2019": 95.48,
+    "VegetableConsumptionRelativeChange": -10.12
+  },
+  {
+    "country": "Maldives",
+    "VegetableConsumption2020": 38.46,
+    "VegetableConsumption2019": 59.95,
+    "VegetableConsumptionRelativeChange": -35.85
+  },
+  {
+    "country": "Belize",
+    "VegetableConsumption2020": 32.46,
+    "VegetableConsumption2019": 31.84,
+    "VegetableConsumptionRelativeChange": 1.95
+  },
+  {
+    "country": "Bahamas",
+    "VegetableConsumption2020": 73.35,
+    "VegetableConsumption2019": 74.15,
+    "VegetableConsumptionRelativeChange": -1.08
+  },
+  {
+    "country": "Iceland",
+    "VegetableConsumption2020": 50.63,
+    "VegetableConsumption2019": 59.57,
+    "VegetableConsumptionRelativeChange": -15.01
+  },
+  {
+    "country": "Vanuatu",
+    "VegetableConsumption2020": 45.81,
+    "VegetableConsumption2019": 47.38,
+    "VegetableConsumptionRelativeChange": -3.31
+  },
+  {
+    "country": "French Polynesia",
+    "VegetableConsumption2020": 37.95,
+    "VegetableConsumption2019": 38.13,
+    "VegetableConsumptionRelativeChange": -0.47
+  },
+  {
+    "country": "New Caledonia",
+    "VegetableConsumption2020": 56.88,
+    "VegetableConsumption2019": 58.71,
+    "VegetableConsumptionRelativeChange": -3.12
+  },
+  {
+    "country": "Barbados",
+    "VegetableConsumption2020": 54.56,
+    "VegetableConsumption2019": 57.8,
+    "VegetableConsumptionRelativeChange": -5.61
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "VegetableConsumption2020": 17.52,
+    "VegetableConsumption2019": 17.15,
+    "VegetableConsumptionRelativeChange": 2.16
+  },
+  {
+    "country": "Samoa",
+    "VegetableConsumption2020": 18.27,
+    "VegetableConsumption2019": 11.97,
+    "VegetableConsumptionRelativeChange": 52.63
+  },
+  {
+    "country": "Saint Lucia",
+    "VegetableConsumption2020": 23.86,
+    "VegetableConsumption2019": 35.63,
+    "VegetableConsumptionRelativeChange": -33.03
+  },
+  {
+    "country": "Kiribati",
+    "VegetableConsumption2020": 46.75,
+    "VegetableConsumption2019": 47.27,
+    "VegetableConsumptionRelativeChange": -1.1
+  },
+  {
+    "country": "Grenada",
+    "VegetableConsumption2020": 73.36,
+    "VegetableConsumption2019": 87.17,
+    "VegetableConsumptionRelativeChange": -15.84
+  },
+  {
+    "country": "Micronesia",
+    "VegetableConsumption2020": 30.89,
+    "VegetableConsumption2019": 31.59,
+    "VegetableConsumptionRelativeChange": -2.22
+  },
+  {
+    "country": "Seychelles",
+    "VegetableConsumption2020": 58.51,
+    "VegetableConsumption2019": 63.46,
+    "VegetableConsumptionRelativeChange": -7.8
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "VegetableConsumption2020": 44.92,
+    "VegetableConsumption2019": 54.54,
+    "VegetableConsumptionRelativeChange": -17.64
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "VegetableConsumption2020": 17.96,
+    "VegetableConsumption2019": 44.71,
+    "VegetableConsumptionRelativeChange": -59.83
+  },
+  {
+    "country": "Dominica",
+    "VegetableConsumption2020": 79.35,
+    "VegetableConsumption2019": 79.7,
+    "VegetableConsumptionRelativeChange": -0.44
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "VegetableConsumption2020": 16.75,
+    "VegetableConsumption2019": 16.9,
+    "VegetableConsumptionRelativeChange": -0.89
+  },
+  {
+    "country": "Nauru",
+    "VegetableConsumption2020": 17.38,
+    "VegetableConsumption2019": 20.93,
+    "VegetableConsumptionRelativeChange": -16.96
+  },
+  {
+    "country": "Total",
+    "VegetableConsumption2020": 64.2885082872928,
+    "VegetableConsumption2019": 64.02281767955799,
+    "VegetableConsumptionRelativeChange": 0.34325966850828665
+  }
+]
