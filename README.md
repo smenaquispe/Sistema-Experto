@@ -140,8 +140,6 @@ El encadenamiento hacia adelante es un método de inferencia que utiliza datos i
    - Se ofrece información detallada de cada destino recomendado.
    - Ejemplo: Actividades en Singapur, opciones de transporte y nivel de seguridad.
 
-## **Resultados**
-
 
 ## **Conclusiones**
 
