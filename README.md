@@ -31,3 +31,6 @@ El objetivo del sistema de recomendación de viajes es proporcionar recomendacio
 <p align="center">
   <img src="docs/Sistema_Experto.png" alt="Expert System" width="800px" />
 </p>
+
+### **Tipo de Encadenamiento**
+
