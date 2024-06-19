@@ -1,0 +1,3910 @@
+{
+    "India": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [
+            "que tenga una gran biodiversidad"
+        ],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida excelente"
+        ],
+        "seguridad": [],
+        "transporte": [
+            "Tiene indices de trafico"
+        ],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [
+            "Su nivel de Biodiversidad es {nivel_biodiversidad}"
+        ],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "China": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding",
+            "que tenga playas donde se puede surfear"
+        ],
+        "atracciones": [
+            "que tenga una gran biodiversidad"
+        ],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida excelente"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [
+            "Su nivel de Biodiversidad es {nivel_biodiversidad}"
+        ],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "United States": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding",
+            "que tenga playas donde se puede surfear"
+        ],
+        "atracciones": [
+            "que tenga una gran biodiversidad"
+        ],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida excelente"
+        ],
+        "seguridad": [],
+        "transporte": [
+            "Tiene indices de trafico"
+        ],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [
+            "Su nivel de Biodiversidad es {nivel_biodiversidad}"
+        ],
+        "vegetales": []
+    },
+    "Indonesia": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding",
+            "que tenga playas donde se puede surfear"
+        ],
+        "atracciones": [
+            "que tenga una gran biodiversidad"
+        ],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida excelente"
+        ],
+        "seguridad": [],
+        "transporte": [
+            "Tiene indices de trafico"
+        ],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [
+            "Su nivel de Biodiversidad es {nivel_biodiversidad}"
+        ],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Pakistan": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Brazil": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding",
+            "que tenga playas donde se puede surfear"
+        ],
+        "atracciones": [
+            "que tenga una gran biodiversidad"
+        ],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida excelente"
+        ],
+        "seguridad": [],
+        "transporte": [
+            "Tiene indices de trafico"
+        ],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [
+            "Su nivel de Biodiversidad es {nivel_biodiversidad}"
+        ],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Russia": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Mexico": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding",
+            "que tenga playas donde se puede surfear"
+        ],
+        "atracciones": [
+            "que tenga una gran biodiversidad"
+        ],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida excelente"
+        ],
+        "seguridad": [],
+        "transporte": [
+            "Tiene indices de trafico"
+        ],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [
+            "Su nivel de Biodiversidad es {nivel_biodiversidad}"
+        ],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Japan": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [
+            "le importa que seg\u00fan encuestas sea un pa\u00eds bueno para visitar"
+        ],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida excelente"
+        ],
+        "seguridad": [],
+        "transporte": [
+            "Tiene indices de trafico"
+        ],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Egypt": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Iran": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida excelente"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Turkey": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida excelente"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Germany": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding",
+            "que tenga playas donde se puede surfear"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida excelente"
+        ],
+        "seguridad": [],
+        "transporte": [
+            "Tiene indices de trafico"
+        ],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Thailand": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding",
+            "que tenga playas donde se puede surfear"
+        ],
+        "atracciones": [
+            "que tenga una gran biodiversidad"
+        ],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida excelente"
+        ],
+        "seguridad": [],
+        "transporte": [
+            "Tiene indices de trafico"
+        ],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [
+            "Su nivel de Biodiversidad es {nivel_biodiversidad}"
+        ],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "United Kingdom": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding",
+            "que tenga playas donde se puede surfear"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [
+            "Tiene indices de trafico"
+        ],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "France": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding",
+            "que tenga playas donde se puede surfear"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida excelente"
+        ],
+        "seguridad": [],
+        "transporte": [
+            "Tiene indices de trafico"
+        ],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "South Africa": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding",
+            "que tenga playas donde se puede surfear"
+        ],
+        "atracciones": [
+            "que tenga una gran biodiversidad"
+        ],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida excelente"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [
+            "Su nivel de Biodiversidad es {nivel_biodiversidad}"
+        ],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Italy": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida excelente"
+        ],
+        "seguridad": [],
+        "transporte": [
+            "Tiene indices de trafico"
+        ],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "South Korea": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida excelente"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Spain": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida excelente"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Iraq": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Algeria": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida excelente"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Argentina": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida excelente"
+        ],
+        "seguridad": [],
+        "transporte": [
+            "Tiene indices de trafico"
+        ],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Poland": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida excelente"
+        ],
+        "seguridad": [],
+        "transporte": [
+            "Tiene indices de trafico"
+        ],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Canada": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding",
+            "que tenga playas donde se puede surfear"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [
+            "Tiene indices de trafico"
+        ],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Morocco": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding",
+            "que tenga playas donde se puede surfear"
+        ],
+        "atracciones": [
+            "le importa que seg\u00fan encuestas sea un pa\u00eds bueno para visitar"
+        ],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Ukraine": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Uzbekistan": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Peru": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [
+            "que tenga una gran biodiversidad"
+        ],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida excelente"
+        ],
+        "seguridad": [],
+        "transporte": [
+            "Tiene indices de trafico"
+        ],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [
+            "Su nivel de Biodiversidad es {nivel_biodiversidad}"
+        ],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Malaysia": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [
+            "que tenga una gran biodiversidad"
+        ],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [
+            "Su nivel de Biodiversidad es {nivel_biodiversidad}"
+        ],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Nepal": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Australia": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding",
+            "que tenga playas donde se puede surfear"
+        ],
+        "atracciones": [
+            "que tenga una gran biodiversidad"
+        ],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [
+            "Tiene indices de trafico"
+        ],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [
+            "Su nivel de Biodiversidad es {nivel_biodiversidad}"
+        ],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "North Korea": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Kazakhstan": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Chile": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Romania": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida excelente"
+        ],
+        "seguridad": [],
+        "transporte": [
+            "Tiene indices de trafico"
+        ],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Netherlands": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida excelente"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Belgium": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida excelente"
+        ],
+        "seguridad": [],
+        "transporte": [
+            "Tiene indices de trafico"
+        ],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Sweden": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Czech Republic": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida excelente"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "Azerbaijan": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Greece": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida excelente"
+        ],
+        "seguridad": [],
+        "transporte": [
+            "Tiene indices de trafico"
+        ],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Portugal": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding",
+            "que tenga playas donde se puede surfear"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida excelente"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Hungary": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida excelente"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "United Arab Emirates": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding",
+            "que tenga playas donde se puede surfear"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Belarus": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Israel": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Austria": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida excelente"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Switzerland": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [
+            "le importa que seg\u00fan encuestas sea un pa\u00eds bueno para visitar"
+        ],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [
+            "Tiene indices de trafico"
+        ],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Serbia": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida excelente"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Kyrgyzstan": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Bulgaria": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida excelente"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Turkmenistan": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Singapore": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "Denmark": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida excelente"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Slovakia": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Finland": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Norway": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "New Zealand": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding",
+            "que tenga playas donde se puede surfear"
+        ],
+        "atracciones": [
+            "le importa que seg\u00fan encuestas sea un pa\u00eds bueno para visitar"
+        ],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Lebanon": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Ireland": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding",
+            "que tenga playas donde se puede surfear"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Croatia": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida excelente"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Georgia": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida excelente"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Mongolia": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Bosnia and Herzegovina": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Albania": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Armenia": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Qatar": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Lithuania": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Namibia": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Lesotho": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Slovenia": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "North Macedonia": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Latvia": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Bahrain": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Estonia": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Cyprus": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Montenegro": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Iceland": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Andorra": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "Greenland": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "Liechtenstein": {
+        "actividades": [
+            "que tenga resorts donde se puede realizar ski o snowboarding"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "Philippines": {
+        "actividades": [
+            "que tenga playas donde se puede surfear"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida excelente"
+        ],
+        "seguridad": [],
+        "transporte": [
+            "Tiene indices de trafico"
+        ],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Taiwan": {
+        "actividades": [
+            "que tenga playas donde se puede surfear"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [
+            "Tiene indices de trafico"
+        ],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Sri Lanka": {
+        "actividades": [
+            "que tenga playas donde se puede surfear"
+        ],
+        "atracciones": [
+            "le importa que seg\u00fan encuestas sea un pa\u00eds bueno para visitar"
+        ],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Ecuador": {
+        "actividades": [
+            "que tenga playas donde se puede surfear"
+        ],
+        "atracciones": [
+            "que tenga una gran biodiversidad"
+        ],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [
+            "Su nivel de Biodiversidad es {nivel_biodiversidad}"
+        ],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Costa Rica": {
+        "actividades": [
+            "que tenga playas donde se puede surfear"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Puerto Rico": {
+        "actividades": [
+            "que tenga playas donde se puede surfear"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "Fiji": {
+        "actividades": [
+            "que tenga playas donde se puede surfear"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Cape Verde": {
+        "actividades": [
+            "que tenga playas donde se puede surfear"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Maldives": {
+        "actividades": [
+            "que tenga playas donde se puede surfear"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "French Polynesia": {
+        "actividades": [
+            "que tenga playas donde se puede surfear"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Barbados": {
+        "actividades": [
+            "que tenga playas donde se puede surfear"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Samoa": {
+        "actividades": [
+            "que tenga playas donde se puede surfear"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Micronesia": {
+        "actividades": [
+            "que tenga playas donde se puede surfear"
+        ],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "DR Congo": {
+        "actividades": [],
+        "atracciones": [
+            "que tenga una gran biodiversidad"
+        ],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [
+            "Su nivel de Biodiversidad es {nivel_biodiversidad}"
+        ],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Vietnam": {
+        "actividades": [],
+        "atracciones": [
+            "que tenga una gran biodiversidad"
+        ],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida excelente"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [
+            "Su nivel de Biodiversidad es {nivel_biodiversidad}"
+        ],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Tanzania": {
+        "actividades": [],
+        "atracciones": [
+            "que tenga una gran biodiversidad"
+        ],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [
+            "Su nivel de Biodiversidad es {nivel_biodiversidad}"
+        ],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Myanmar": {
+        "actividades": [],
+        "atracciones": [
+            "que tenga una gran biodiversidad"
+        ],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [
+            "Su nivel de Biodiversidad es {nivel_biodiversidad}"
+        ],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Colombia": {
+        "actividades": [],
+        "atracciones": [
+            "que tenga una gran biodiversidad"
+        ],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [
+            "Tiene indices de trafico"
+        ],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [
+            "Su nivel de Biodiversidad es {nivel_biodiversidad}"
+        ],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Venezuela": {
+        "actividades": [],
+        "atracciones": [
+            "que tenga una gran biodiversidad"
+        ],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [
+            "Su nivel de Biodiversidad es {nivel_biodiversidad}"
+        ],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Bolivia": {
+        "actividades": [],
+        "atracciones": [
+            "que tenga una gran biodiversidad"
+        ],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [
+            "Su nivel de Biodiversidad es {nivel_biodiversidad}"
+        ],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Papua New Guinea": {
+        "actividades": [],
+        "atracciones": [
+            "que tenga una gran biodiversidad"
+        ],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [
+            "Su nivel de Biodiversidad es {nivel_biodiversidad}"
+        ],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Sudan": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Afghanistan": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Yemen": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Syria": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida excelente"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "Mali": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Burkina Faso": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Somalia": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "Haiti": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "South Sudan": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Libya": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Central African Republic": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Palestine": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "Nigeria": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Ethiopia": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Kenya": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Uganda": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Angola": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Mozambique": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Ghana": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Madagascar": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Ivory Coast": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Cameroon": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Niger": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Malawi": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Zambia": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Chad": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Guatemala": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Senegal": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Cambodia": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Zimbabwe": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Guinea": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Rwanda": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Benin": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Burundi": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Tunisia": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Dominican Republic": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Jordan": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Cuba": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Honduras": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Tajikistan": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Togo": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Sierra Leone": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Laos": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Nicaragua": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Paraguay": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "El Salvador": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Liberia": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Oman": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Panama": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Eritrea": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "Uruguay": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [
+            "Tiene indices de trafico"
+        ],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Moldova": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Gambia": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Jamaica": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Botswana": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Gabon": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Guinea-Bissau": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Equatorial Guinea": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "Trinidad and Tobago": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Timor-Leste": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Mauritius": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Eswatini": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Djibouti": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Comoros": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Guyana": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Bhutan": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Solomon Islands": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Luxembourg": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [
+            "Tiene indices de trafico"
+        ],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Suriname": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Malta": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Brunei": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "Belize": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Bahamas": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Vanuatu": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Sao Tome and Principe": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Saint Lucia": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Kiribati": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Grenada": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Tonga": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "Seychelles": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Saint Vincent and the Grenadines": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Antigua and Barbuda": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Dominica": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Saint Kitts and Nevis": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Cook Islands": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "Nauru": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Tuvalu": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "Niue": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "Total": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [
+            "que se pueda consumir alcohol"
+        ],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Bangladesh": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Saudi Arabia": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [
+            "que tenga una calidad de comida buena"
+        ],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Hong Kong": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Republic of the Congo": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "Mauritania": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Kuwait": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Reunion": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "Macau": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Western Sahara": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "Guadeloupe": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "Martinique": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "French Guiana": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "New Caledonia": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": [
+            "Tiene una dieta basada en vegetales"
+        ]
+    },
+    "Curacao": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "Guam": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "Jersey": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "Aruba": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "United States Virgin Islands": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "Isle of Man": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "Cayman Islands": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "Bermuda": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "Guernsey": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "Faroe Islands": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "Northern Mariana Islands": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "Turks and Caicos Islands": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "Sint Maarten": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "American Samoa": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "Marshall Islands": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "Monaco": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "San Marino": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "Gibraltar": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "Saint Martin": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "British Virgin Islands": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "Palau": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "Anguilla": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "Wallis and Futuna": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "Saint Barthelemy": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "Montserrat": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "Tokelau": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "Vatican City": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "Brunei Darussalam": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "Congo": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "Democratic Republic of Congo": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "Swaziland": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "Fiji Islands": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "Kyrghyzstan": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "Macedonia": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "Seychelles Islands": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": []
+    },
+    "United States of America": {
+        "actividades": [],
+        "atracciones": [],
+        "clima": [],
+        "restaurantes": [],
+        "seguridad": [],
+        "transporte": [],
+        "alcohol": [],
+        "biodiversidad": [],
+        "vegetales": []
+    }
+}
