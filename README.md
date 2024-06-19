@@ -34,3 +34,10 @@ El objetivo del sistema de recomendación de viajes es proporcionar recomendacio
 
 ## **Tipo de Encadenamiento**
 
+El encadenamiento hacia adelante es un método de inferencia que utiliza datos iniciales para aplicar reglas y derivar conclusiones progresivamente. Es ideal para sistemas de recomendación donde las preferencias del usuario se traducen en sugerencias específicas.
+
+1. **Recolectar Datos del Usuario**
+
+   - Proceso: El usuario completa un cuestionario sobre sus preferencias y necesidades de viaje.
+   - Ejemplo: Clima preferido (Cálido), nivel de seguridad (Seguro), tipo de transporte (Transporte público eficiente), etc.
+
