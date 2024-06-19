@@ -133,4 +133,10 @@ El encadenamiento hacia adelante es un método de inferencia que utiliza datos i
    - Se ofrece información detallada de cada destino recomendado.
    - Ejemplo: Actividades en Singapur, opciones de transporte y nivel de seguridad.
 
-## **Reglas**
+## **Resultados**
+
+
+## **Conclusiones**
+
+- El sistema de recomendación de viajes basado en encadenamiento hacia adelante ofrece una solución poderosa para personalizar las sugerencias de destinos según las preferencias individuales de los usuarios. A través de la recolección de datos específicos y la aplicación de reglas de producción, el sistema puede proporcionar recomendaciones precisas y detalladas, mejorando la experiencia de planificación de viajes.
+- Sin embargo, este enfoque también enfrenta varios desafíos, como la necesidad de mantener datos precisos y actualizados, manejar la complejidad del motor de recomendación, equilibrar la personalización con la generalización, y asegurar la privacidad y seguridad de los datos de los usuarios. Superar estos desafíos requerirá un enfoque cuidadoso en el diseño y desarrollo del sistema, así como una gestión continua para adaptarse a nuevas necesidades y tecnologías.
