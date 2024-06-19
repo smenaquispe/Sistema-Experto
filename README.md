@@ -38,42 +38,6 @@ El objetivo del sistema de recomendación de viajes es proporcionar recomendacio
   <img src="docs/Sistema_Experto.png" alt="Expert System" width="800px" />
 </p>
 
-```plaintext
-.
-├── actividades
-│   ├── skiing.json
-│   ├── surfing.json
-│      
-├── atracciones
-│   ├── best-countries.json
-│   ├── biodiverse.json
-│   ├── worst-countries.json
-│
-├── clima
-│   ├── GlobalWeatherRepository.csv
-│
-├── docs
-│   └── ...
-│ 
-├── restaurantes
-│   ├── alcohol.json
-│   ├── best-food.json
-│   ├── national-dishes.json
-│   ├── vegetables.json
-│
-├── seguridad
-│   ├── car-accidents.json
-│   ├── crime-rate.json
-│   ├── drug-use.json
-│   ├── most-dangerous.json
-│
-├── transporte
-│   ├── most-traffic.json
-│
-├── COMMITS.md
-├── COMMITS.md
-└── README.md
-```
 
 ## **Alcance**
 
