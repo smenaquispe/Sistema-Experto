@@ -1,5 +1,11 @@
 # Sistema-de-recomendación-de-viajes
 
+## **Integrantes**
+- Apaza Andaluz, Diego Francisco
+- Mena Quispe, Sergio Sebastian Santos
+- Pardavé Espinoza, Christian
+- Condori Machaca, Saul Arturo
+
 ## **Introduccion**
 El turismo ha experimentado una transformación significativa con la integración de la tecnología, lo que ha permitido a los viajeros acceder a información y recomendaciones personalizadas de manera eficiente. En este contexto, los sistemas expertos se han convertido en herramientas cruciales para facilitar la planificación de viajes, ofreciendo sugerencias basadas en las preferencias y necesidades individuales de los usuarios.
 
