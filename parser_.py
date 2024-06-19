@@ -1,7 +1,7 @@
 # abrimos el csv countries.csv
 
 import pandas as pd
-
+import json
 df = pd.read_csv('countries.csv')
 
 countries = {}
@@ -14,9 +14,9 @@ def obtener_tipo_clima(temperatura):
     elif 10 <= temperatura < 20:
         return "templado"
     elif 20 <= temperatura < 30:
-        return "cálido"
+        return "calido"
     elif temperatura >= 30:
-        return "muy cálido"
+        return "muy calido"
     else:
         return "desconocido"
     
@@ -96,15 +96,15 @@ for i, row in df.iterrows():
         countries[country_name]["atracciones"].append("que tenga una gran biodiversidad")
     
     if row["is_best_country"] == True:
-        countries[country_name]["atracciones"].append("le importa que según encuestas sea un país bueno para visitar")
+        countries[country_name]["atracciones"].append("le importa que segun encuestas sea un pais bueno para visitar")
 
     # CLIMA
-    if row['temperature'] != True:
+    if row['temperature'] == True:
         tipo_clima = obtener_tipo_clima(row['temperature'])
         countries[country_name]["clima"].append(f"que tenga un clima {tipo_clima}")
 
     #RESTAURANTE
-    if row['best_food'] != True:
+    if row['best_food'] == True:
         tipo_comida = obtener_tipo_comida(row['best_food_index'])
         countries[country_name]["restaurantes"].append(f"que tenga una calidad de comida {tipo_comida}")
 
@@ -123,15 +123,13 @@ for i, row in df.iterrows():
          countries[country_name]["alcohol"].append("que se pueda consumir alcohol")
     
     #Biodiversidad
-    if row['is_biodiverse'] != True:
+    if row['is_biodiverse'] == True:
         nivel_biodiversidad = obtener_nivel_biodiversidad(row['biodiversity'])
-        countries[country_name]["biodiversidad"].append("Su nivel de Biodiversidad es {nivel_biodiversidad}")
+        countries[country_name]["biodiversidad"].append(f"Su nivel de Biodiversidad es {nivel_biodiversidad}")
 
     #VEGETALES
     if row['vegetables'] == True:
          countries[country_name]["vegetales"].append("Tiene una dieta basada en vegetales")
 
-
-import json
 with open("countries.json", "w") as f:
     json.dump(countries, f, indent=4)
