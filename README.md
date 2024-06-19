@@ -53,6 +53,15 @@ El objetivo del sistema de recomendación de viajes es proporcionar recomendacio
   - Calcular las puntuaciones de los destinos y recomendar al usuario el destino que mejor se ajusta a sus preferencias.
   - Proporcionar información adicional sobre el destino recomendado, como actividades disponibles, atracciones principales, opciones de transporte y consejos de viaje.
 
+## **Base de Conocimientos**
+Características por destino destacadas en el survey:
+- Actividad
+- Atracciones
+- Clima
+- Restaurantes
+- Seguridad
+- Transporte
+
 ## **Tipo de Encadenamiento**
 
 El encadenamiento hacia adelante es un método de inferencia que utiliza datos iniciales para aplicar reglas y derivar conclusiones progresivamente. Es ideal para sistemas de recomendación donde las preferencias del usuario se traducen en sugerencias específicas.
