@@ -34,15 +34,24 @@ El objetivo del sistema de recomendación de viajes es proporcionar recomendacio
 
 ## **Alcance**
 
-- **Perfil del Viajero*:
+- **Perfil del Viajero**:
   
   - Recolectar información sobre las preferencias y necesidades del usuario a través de una serie de preguntas estructuradas.
   - Considerar características como clima preferido, nivel de seguridad deseado, tipo de transporte, estilo de vestimenta, interés en la fotografía, tipo de comida, atracciones deseadas, compañía de viaje, tipo de equipaje, actividades, alojamiento, y restaurantes.
 
-- **Base de Datos de Destinos*:
+- **Base de Datos de Destinos**:
   
   - Mantener una base de datos actualizada de destinos de viaje con características detalladas que corresponden a las preguntas realizadas a los usuarios.
   - Incluir información sobre clima, seguridad, transporte, comida, atracciones, alojamiento, actividades y otros aspectos relevantes.
+
+- **Reglas de Recomendación**:
+  
+  - Desarrollar un conjunto de reglas que utilicen la información de la base de datos y las preferencias del usuario para realizar recomendaciones.
+
+- **Recomendación Personalizada**:
+  
+  - Calcular las puntuaciones de los destinos y recomendar al usuario el destino que mejor se ajusta a sus preferencias.
+  - Proporcionar información adicional sobre el destino recomendado, como actividades disponibles, atracciones principales, opciones de transporte y consejos de viaje.
 
 ## **Tipo de Encadenamiento**
 
