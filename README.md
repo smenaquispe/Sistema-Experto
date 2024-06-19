@@ -28,3 +28,6 @@ El objetivo del sistema de recomendación de viajes es proporcionar recomendacio
 
 ### **Estructura de Proyecto**
 
+<p align="center">
+  <img src="docs/sistema_experto.png" alt="Expert System" width="500px" />
+</p>
