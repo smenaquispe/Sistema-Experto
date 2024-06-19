@@ -1,4 +1,4 @@
-# Sistema-de-recomendación-de-viajes
+# Sistema de recomendación de viajes
 
 ## **Integrantes**
 - Apaza Andaluz, Diego Francisco
