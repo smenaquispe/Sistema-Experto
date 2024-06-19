@@ -61,6 +61,43 @@ Características por destino destacadas en el survey:
 - Restaurantes
 - Seguridad
 - Transporte
+- Alcohol
+- Biodiversidad
+- Comida Saludable
+
+## **Reglas**
+
+En el sistema de recomendación de viajes, las reglas de recomendación se basan en las características de los destinos y las preferencias del usuario. A continuación se detallan las reglas que se implementan para diversas categorías clave, tales como actividades, atracciones, clima, restaurantes, seguridad, transporte, consumo de alcohol, biodiversidad y dieta vegetal.
+
+### Actividades
+- **Esquí y Snowboard**: Si el destino tiene resorts para esquiar o hacer snowboard, se añade una recomendación para destinos donde estas actividades son posibles.
+- **Surf**: Si el destino tiene playas aptas para surfear, se añade una recomendación para destinos donde se puede practicar surf.
+
+### Atracciones
+- **Biodiversidad**: Si el destino es conocido por su biodiversidad, se añade una recomendación para destinos con gran biodiversidad.
+- **Ranking de Mejor País para Visitar**: Si el destino ha sido clasificado como uno de los mejores países para visitar en encuestas, se añade una recomendación destacando este reconocimiento.
+
+### Clima
+- **Preferencias Climáticas**: Según la temperatura del destino, se determina el tipo de clima y se añade una recomendación que refleja el clima preferido por el usuario.
+
+### Restaurantes
+- **Calidad de la Comida**: Si el destino es conocido por la calidad de su comida, se añade una recomendación que refleja esta característica.
+
+### Seguridad
+- **Nivel de Seguridad**: Según el índice de criminalidad del destino, se determina el nivel de seguridad y se añade una recomendación que refleja la seguridad del destino.
+
+### Transporte
+- **Condiciones del Tráfico**: Si el destino tiene altos índices de tráfico, se añade una recomendación para destinos con información sobre las condiciones del tráfico.
+
+### Consumo de Alcohol
+- **Disponibilidad de Alcohol**: Si el destino permite el consumo de alcohol, se añade una recomendación para destinos donde el alcohol está disponible.
+
+### Biodiversidad
+- **Nivel de Biodiversidad**: Según el nivel de biodiversidad del destino, se añade una recomendación que refleja este aspecto.
+
+### Dieta Vegetal
+- **Preferencias Alimentarias**: Si el destino tiene una dieta basada en vegetales, se añade una recomendación para destinos que satisfagan esta preferencia alimentaria.
+
 
 ## **Tipo de Encadenamiento**
 
@@ -95,3 +132,5 @@ El encadenamiento hacia adelante es un método de inferencia que utiliza datos i
 
    - Se ofrece información detallada de cada destino recomendado.
    - Ejemplo: Actividades en Singapur, opciones de transporte y nivel de seguridad.
+
+## **Reglas**
