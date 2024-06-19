@@ -41,3 +41,27 @@ El encadenamiento hacia adelante es un método de inferencia que utiliza datos i
    - Proceso: El usuario completa un cuestionario sobre sus preferencias y necesidades de viaje.
    - Ejemplo: Clima preferido (Cálido), nivel de seguridad (Seguro), tipo de transporte (Transporte público eficiente), etc.
 
+2. **Consulta de los Hechos Iniciales**
+
+   - En base a las preferencias del usuario se determinará su respuesta.
+   - Ejemplo: El usuario prefiere clima cálido y transporte público eficiente.
+
+3. **Aplicar Reglas de Producción**
+
+   - El sistema usa reglas para combinar hechos iniciales y derivar nuevos hechos.
+   - Ejemplo: Si el usuario prefiere clima cálido y transporte eficiente, considerar destinos tropicales con buenas redes de transporte.
+
+4. **Derivar Nuevos Hechos**
+
+   - Las reglas generan nuevos hechos para refinar recomendaciones.
+   - Ejemplo: Destinos tropicales con alta seguridad y buen transporte.
+
+5. **Generar Recomendaciones**
+
+   - El sistema crea una lista de destinos que se alinean con las preferencias del usuario.
+   - Ejemplo: Singapur, Honolulu, Miami.
+
+6. **Proporcionar Información Adicional**
+
+   - Se ofrece información detallada de cada destino recomendado.
+   - Ejemplo: Actividades en Singapur, opciones de transporte y nivel de seguridad.
