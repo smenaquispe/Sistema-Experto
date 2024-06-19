@@ -32,6 +32,18 @@ El objetivo del sistema de recomendación de viajes es proporcionar recomendacio
   <img src="docs/Sistema_Experto.png" alt="Expert System" width="800px" />
 </p>
 
+## **Alcance**
+
+- **Perfil del Viajero*:
+  
+  - Recolectar información sobre las preferencias y necesidades del usuario a través de una serie de preguntas estructuradas.
+  - Considerar características como clima preferido, nivel de seguridad deseado, tipo de transporte, estilo de vestimenta, interés en la fotografía, tipo de comida, atracciones deseadas, compañía de viaje, tipo de equipaje, actividades, alojamiento, y restaurantes.
+
+- **Base de Datos de Destinos*:
+  
+  - Mantener una base de datos actualizada de destinos de viaje con características detalladas que corresponden a las preguntas realizadas a los usuarios.
+  - Incluir información sobre clima, seguridad, transporte, comida, atracciones, alojamiento, actividades y otros aspectos relevantes.
+
 ## **Tipo de Encadenamiento**
 
 El encadenamiento hacia adelante es un método de inferencia que utiliza datos iniciales para aplicar reglas y derivar conclusiones progresivamente. Es ideal para sistemas de recomendación donde las preferencias del usuario se traducen en sugerencias específicas.
