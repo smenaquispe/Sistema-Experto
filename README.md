@@ -26,11 +26,11 @@ El objetivo del sistema de recomendación de viajes es proporcionar recomendacio
 | Motor de Recomendación        | El sistema debe incluir un motor que utilice las respuestas del cuestionario para calcular las puntuaciones de los destinos y recomendar los más adecuados para el usuario. |
 | Información Detallada del Destino | Para cada destino recomendado, el sistema debe proporcionar información adicional sobre actividades disponibles, atracciones principales, opciones de transporte y consejos de viaje. |
 
-### **Estructura de Proyecto**
+## **Estructura de Proyecto**
 
 <p align="center">
   <img src="docs/Sistema_Experto.png" alt="Expert System" width="800px" />
 </p>
 
-### **Tipo de Encadenamiento**
+## **Tipo de Encadenamiento**
 
